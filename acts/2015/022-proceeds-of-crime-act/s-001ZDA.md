@@ -166,7 +166,9 @@ Tax crimes and other criminal conduct.
 
 (a) an offence in connection with taxes or duties, customs and exchange; or
 
-(b) any criminal conduct, shall not be impeded on the ground that Gibraltar law does not impose the same kind of tax or duty or does not contain a tax, duty, customs and exchange regulation of the same kind as the law of the State or territory where the FIU is located or where the offence took place, or otherwise on the ground that there are differences between Gibraltar law definitions of predicate offences or criminal conduct and the law of the State or territory where the FIU is located or where the criminal conduct took place.
+(b) any criminal conduct,
+
+shall not be impeded on the ground that Gibraltar law does not impose the same kind of tax or duty or does not contain a tax, duty, customs and exchange regulation of the same kind as the law of the State or territory where the FIU is located or where the offence took place, or otherwise on the ground that there are differences between Gibraltar law definitions of predicate offences or criminal conduct and the law of the State or territory where the FIU is located or where the criminal conduct took place.
 
 Use of exchanged information.
 
@@ -256,7 +258,7 @@ Protection of confidential information.
 
 Referral of suspected offences.
 
-1M. If the GFIU in the performance of its functions has reasonable grounds to suspect that a relevant financial business, or any other person, has engaged in conduct which is prohibited by law or contravenes any regulatory standards, the GFIU, if it considers it appropriate to do so, may refer the matter to the Royal Gibraltar Police, HM Customs, the Income Tax Office or a supervisory body listed in Part I of Schedule 2, as appropriate.
+1M. If the GFIU in the performance of its functions has reasonable grounds to suspect that a relevant financial business, or any other person, has engaged in conduct which is prohibited by law or contravenes any regulatory standards, the GFIU, if it considers it appropriate to do so, may refer the matter to the Royal Gibraltar Police, HM Customs, the Income Tax Office, the sanctions civil enforcement authority under sections 51A to 51D of the Sanctions Act 2019 or a supervisory body listed in Part I of Schedule 2, as appropriate.
 
 Duty to inform.
 
@@ -310,6 +312,8 @@ Interpretation of Part II and Part III.
 
 (2) In this Part and in Part III–
 
-“the Money Laundering Directive” means Directive (EU) 2015/849  of the European Parliament and of the Council of 20 May 2015 on  the prevention of the use of the financial system  for the purposes of money  laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018, and as the same may from time to time be further amended.
+“the Money Laundering Directive” means Directive (EU) 2015/849  of the European Parliament and of the Council of 20 May 2015 on  the prevention of the use of the financial system  for the purposes of money  laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU)
+
+2018/843 of the European Parliament and of the Council of 30 May 2018, and as the same may from time to time be further amended.
 
 (3)  For the avoidance of doubt, “independent legal professional” includes, but is not limited to, a barrister, solicitor or other lawyer.

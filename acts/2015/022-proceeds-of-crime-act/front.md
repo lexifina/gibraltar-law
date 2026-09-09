@@ -24,11 +24,11 @@ Amending enactments Relevant current provisions Commencement date LN. 2016/148 s
 
 10.3.2022 2023/052 Sch.2 2.3.2023 Act.2023-29 ss. 1E(2)(b), (3), 1K(1)(ba), 4I 27.7.2023 2023-32 ss. 5A 27.7.2023 LN.2023/209 ss. 10(ca), 129(1), 132(1) 27.7.2023 2023/262 s. 9(1)(r) 7.9.2023 Act.2024-12 s. 70B(2) 11.7.2024 LN.2024/151 ss. 180A-180B 8.8.2024 Act.2024-15 ss. 166A-166Y, 181A, 183(3)(za), (6), (7A)-(7B), Sch.10
 
-31.10.20242
+31.10.20242 2024-34 ss. 10(ca), 156(3)(c), (5)(b), 157(5)(a), (c) 23.12.2024
 
 2 Notice of Commencement (LN.2024/200)
 
-2024-34 ss. 10(ca), 156(3)(c), (5)(b), 157(5)(a), (c) 23.12.2024 LN.2025/254 s. 9(l)(xiii), (q), (1A) 27.10.2025 Act.2026-11 s. 184ZB 25.6.20263 LN.2026/176 s. 9(1)(s) 13.7.2026 LN.2026/147 rr. 6A(3)-(4), 7(1), 19A-19B, 34B-34C, 184ZC 15.7.2026
+LN.2025/254 s. 9(l)(xiii), (q), (1A) 27.10.2025 Act.2026-11 s. 184ZB 25.6.20263 LN.2026/176 s. 9(1)(s) 13.7.2026 LN.2026/147 rr. 6A(3)-(4), 7(1), 19A-19B, 34B-34C, 184ZC 15.7.2026 Act.2026-19 s. 1M 9.9.2026
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849 Directive (EU) 2018/843
 
@@ -68,9 +68,9 @@ PART II MONEY LAUNDERING AND OTHER OFFENCES
 
 PART III MEASURES TO PREVENT THE USE OF THE FINANCIAL SYSTEM FOR PURPOSES OF MONEY LAUNDERING, TERRORIST FINANCING AND PROLIFERATION FINANCING
 
-7. Interpretation. 8. Business relationships.
+7. Interpretation. 8. Business relationships. 9. Relevant financial business. 9A. Extension of provisions to other entities.
 
-9. Relevant financial business. 9A. Extension of provisions to other entities. 9B. Responsibility for compliance.
+9B. Responsibility for compliance.
 
 Customer Due Diligence
 
@@ -78,15 +78,13 @@ Customer Due Diligence
 
 Record-keeping, procedures and training
 
-25. Record-keeping. 25ZA. Record keeping and legal proceedings. 25A. Risk assessment. 26. Policies and procedures. 26A. Approval of policies, controls and procedures. 27. Training. 28. Internal reporting procedures. 29. Supervisory authorities. 30. Duties of supervisory authorities. 30A. Supervisory authorities: duty to inform GFIU. 30B. Secure communication systems. 30C. Criminal checks. 31. Omitted.
+25. Record-keeping. 25ZA. Record keeping and legal proceedings. 25A. Risk assessment. 26. Policies and procedures. 26A. Approval of policies, controls and procedures. 27. Training. 28. Internal reporting procedures. 29. Supervisory authorities. 30. Duties of supervisory authorities. 30A. Supervisory authorities: duty to inform GFIU. 30B. Secure communication systems. 30C. Criminal checks. 31. Omitted. 32. Supervisors, etc. to report evidence of money laundering. 33. Criminal offences. 34. Offences by bodies corporate, partnerships and unincorporated associations.
 
-32. Supervisors, etc. to report evidence of money laundering. 33. Criminal offences. 34. Offences by bodies corporate, partnerships and unincorporated associations. 34A. Data protection. 34B. Information about real estate. 34C. Action in cases of supervisory failure.
+34A. Data protection. 34B. Information about real estate. 34C. Action in cases of supervisory failure.
 
 PART IV CONFISCATION OF THE PROCEEDS OF CRIMINAL CONDUCT
 
-35. Confiscation orders. 35A.  Committal by magistrates’ court 35B.  Sentencing by Supreme Court. 36. Postponed determinations. 37. Assessing the proceeds of criminal conduct. 38. Amount to be recovered under confiscation order. 39. Meaning of “amount that might be realised” and “realisable property”. 40. Value of property, etc. 41. Gifts caught by this Part. 42. Application of procedure for enforcing fines. 43. Interest on sums unpaid under confiscation orders. 44. Reconsideration of case where the court has not proceeded under section 35. 45. Re-assessment of whether defendant has benefited from criminal conduct. 46. Increase in realisable property. 47. Revised assessment of proceeds of criminal conduct. 48. Inadequacy of realisable property. 49. Compensation. 50. Powers of the court where the defendant has absconded or died. 51. Effect of conviction where the court has acted under section 50. 52. Variation of confiscation orders made by virtue of section 50. 53. Compensation, etc. where absconder is acquitted. 54. Power to discharge confiscation order and order compensation where absconder returns. 55. Provisions supplementary to sections 52, 53 and 54. 56. Statements relating to criminal conduct. 57. Provision of information by defendant. 58. Cases in which restraint orders and charging orders may be made. 59. Restraint orders. 59A.  Enforcement abroad. 60. Charging orders in respect of land, securities, etc. 61. Charging orders:  supplementary provisions. 62. Realisation of property. 63. Application of proceeds of realisation and other sums. 64. Exercise by the court or receiver of powers for the realisation of property.
-
-65. Bankruptcy of defendant, etc. 66. Liquidation or Administration of company holding realisable property. 67. Persons acting as insolvency practitioners. 68. Receivers: supplementary provisions.
+35. Confiscation orders. 35A.  Committal by magistrates’ court 35B.  Sentencing by Supreme Court. 36. Postponed determinations. 37. Assessing the proceeds of criminal conduct. 38. Amount to be recovered under confiscation order. 39. Meaning of “amount that might be realised” and “realisable property”. 40. Value of property, etc. 41. Gifts caught by this Part. 42. Application of procedure for enforcing fines. 43. Interest on sums unpaid under confiscation orders. 44. Reconsideration of case where the court has not proceeded under section 35. 45. Re-assessment of whether defendant has benefited from criminal conduct. 46. Increase in realisable property. 47. Revised assessment of proceeds of criminal conduct. 48. Inadequacy of realisable property. 49. Compensation. 50. Powers of the court where the defendant has absconded or died. 51. Effect of conviction where the court has acted under section 50. 52. Variation of confiscation orders made by virtue of section 50. 53. Compensation, etc. where absconder is acquitted. 54. Power to discharge confiscation order and order compensation where absconder returns. 55. Provisions supplementary to sections 52, 53 and 54. 56. Statements relating to criminal conduct. 57. Provision of information by defendant. 58. Cases in which restraint orders and charging orders may be made. 59. Restraint orders. 59A.  Enforcement abroad. 60. Charging orders in respect of land, securities, etc. 61. Charging orders:  supplementary provisions. 62. Realisation of property. 63. Application of proceeds of realisation and other sums. 64. Exercise by the court or receiver of powers for the realisation of property. 65. Bankruptcy of defendant, etc. 66. Liquidation or Administration of company holding realisable property. 67. Persons acting as insolvency practitioners. 68. Receivers: supplementary provisions.
 
 PART V CIVIL RECOVERY OF THE PROCEEDS ETC. OF UNLAWFUL CONDUCT
 
@@ -114,7 +112,9 @@ Property freezing orders and interim receiving orders: registration
 
 Interim receiving orders: further provisions
 
-84. Duties of respondent etc. 85. Supervision of interim receiver and variation of order. 86. Restrictions on dealing etc. with property. 87. Restriction on proceedings and remedies. 88. Exclusion of property which is not recoverable etc. 89. Reporting.
+84. Duties of respondent etc. 85. Supervision of interim receiver and variation of order. 86. Restrictions on dealing etc. with property.
+
+87. Restriction on proceedings and remedies. 88. Exclusion of property which is not recoverable etc. 89. Reporting.
 
 Vesting and realisation of recoverable property
 
@@ -156,11 +156,11 @@ Supplementary
 
 133. Victims and other owners. 134. Compensation. 135. “The minimum amount”.
 
-Chapter 4
+Chapter 4 General Recoverable property
 
-General Recoverable property
+136. Property obtained through unlawful conduct. 137. Tracing property, etc. 138. Mixing property. 139. Recoverable property: accruing profits.
 
-136. Property obtained through unlawful conduct. 137. Tracing property, etc. 138. Mixing property. 139. Recoverable property: accruing profits. 140. General exceptions. 141. Other exemptions. 142. Granting interests.
+140. General exceptions. 141. Other exemptions. 142. Granting interests.
 
 Insolvency
 
@@ -180,13 +180,13 @@ Chapter 2 Production orders
 
 Search and seizure warrants
 
-156.  Search and seizure warrants.
-
-157.  Requirements where production order not available. 158.  Further provisions: general. 159.  Further provisions: confiscation and money laundering. 160.  Further provisions: civil recovery and detained cash.
+156.  Search and seizure warrants. 157.  Requirements where production order not available. 158.  Further provisions: general. 159.  Further provisions: confiscation and money laundering. 160.  Further provisions: civil recovery and detained cash.
 
 Disclosure orders
 
-161.  Disclosure orders. 162.  Requirements for making of disclosure order. 163.  Offences. 164.  Statements. 165.  Further provisions. 166.  Supplementary.
+161.  Disclosure orders.
+
+162.  Requirements for making of disclosure order. 163.  Offences. 164.  Statements. 165.  Further provisions. 166.  Supplementary.
 
 Unexplained wealth orders
 
@@ -208,9 +208,7 @@ Supplementary and Interpretation 181. “Document” and “excluded material”
 
 PART VII GENERAL
 
-184. Power to make subordinate legislation. 184ZA. Power to amend the Act, and to make subordinate legislation, to implement conventions and international agreement. 184ZB. Power to amend or modify the Act, and to make subordinate legislation, to implement the Treaty on Gibraltar and the European Union and other instruments. 184ZC. Corresponding provisions regulations. 184A. Power to make subordinate legislation regarding external requests and orders. 184B. Power to make subordinate legislation regarding external investigations. 184C. Rules of court.
-
-184D. Interpretation for the purposes of sections 184A, 184B and 184C.
+184. Power to make subordinate legislation. 184ZA. Power to amend the Act, and to make subordinate legislation, to implement conventions and international agreement. 184ZB. Power to amend or modify the Act, and to make subordinate legislation, to implement the Treaty on Gibraltar and the European Union and other instruments. 184ZC. Corresponding provisions regulations. 184A. Power to make subordinate legislation regarding external requests and orders. 184B. Power to make subordinate legislation regarding external investigations. 184C. Rules of court. 184D. Interpretation for the purposes of sections 184A, 184B and 184C.
 
 PART VIII REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS, CONSEQUENTIAL AMENDMENTS
 
