@@ -94,9 +94,7 @@ If the application is for international transport operations you are required to
 
 (ii) in the case of road haulage operator licences, 150 Euro multiplied by the number of tonnes of the aggregate of the maximum authorised weight of such vehicles; or
 
-(iii) in the case of road passenger transport operator licences, 150 Euro multiplied by the number of passenger seats in that number of vehicles,
-
-whichever is the less.
+(iii) in the case of road passenger transport operator licences, 150 Euro multiplied by the number of passenger seats in that number of vehicles, whichever is the less.
 
 NOTE 2
 
