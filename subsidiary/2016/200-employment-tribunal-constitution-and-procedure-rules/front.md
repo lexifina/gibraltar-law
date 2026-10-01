@@ -6,7 +6,9 @@ LN.2016/200
 
 Commencement 13.10.2016
 
-Amending enactments Relevant current provisions Commencement date LN. 2019/157 r. 2A 13.10.2016 2020/539 rr. 32, 79 1.1.2021 2022/136 rr. 5, (3)-(10), 5A, 88 1.6.2022
+Amending enactments Relevant current provisions Commencement date LN. 2019/157 r. 2A 13.10.2016 2020/539 rr. 32, 79 1.1.2021 2022/136 rr. 5, (3)-(10), 5A, 88 1.6.2022 2026/344 rr. 2(1), 5(1)-(2), (2A)-(2C), (4), (4A), (5)-(7), (7A), (9)-(12)
+
+1.10.2026
 
 ARRANGEMENT OF RULES
 
@@ -46,9 +48,7 @@ PRELIMINARY HEARINGS
 
 FINAL HEARING
 
-49. Scope of final hearing.
-
-50. Notice of final hearing.
+49. Scope of final hearing. 50. Notice of final hearing.
 
 DECISIONS AND REASONS
 
@@ -64,8 +64,8 @@ DELIVERY OF DOCUMENTS
 
 MISCELLANEOUS
 
-77. National security proceedings. 78. Collective agreements.
+77. National security proceedings. 78. Collective agreements. 79. Deleted. 80. Transfer of proceedings from a court. 81. Information to the Equal Opportunities Commission.
 
-79. Deleted. 80. Transfer of proceedings from a court. 81. Information to the Equal Opportunities Commission. 82. Levy appeals. 83. Appeals against improvement and prohibition notices. 84. Conciliation: recovery of sums payable under compromises. 85. Repeal. 86. Savings and transitional provisions. 87. Enforcement. 88. Complaints.
+82. Levy appeals. 83. Appeals against improvement and prohibition notices. 84. Conciliation: recovery of sums payable under compromises. 85. Repeal. 86. Savings and transitional provisions. 87. Enforcement. 88. Complaints.
 
 In exercise of the powers conferred on him by section 12 of the Employment Act, and all other enabling powers, the Minister has made the following Rules–
