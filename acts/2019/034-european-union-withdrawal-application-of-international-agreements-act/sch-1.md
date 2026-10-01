@@ -117,3 +117,5 @@ Convention on Social Security Coordination between the United Kingdom of Great B
 Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Georgia on the Readmission of Persons Residing without Authorisation, done in London on 26 January 2023
 
 Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Republic of Serbia on the Readmission of Persons Residing without Authorisation, done in London on 26 January 2022
+
+Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Moldova on the Readmission of Persons Residing without Authorisation, done in London on 20 November 2024
