@@ -6,7 +6,7 @@ LN.2025/277
 
 Notice of Commencement - (LN.2026/029) 1.2.2026
 
-Amending enactments Relevant current provisions Commencement date LN.2026/082 Sch. 23.4.2026 2026/154 Sch. 9.7.2026 2026/227 Sch. 16.7.2026
+Amending enactments Relevant current provisions Commencement date LN.2026/082 Sch. 23.4.2026 2026/154 Sch. 9.7.2026 2026/227 Sch. 16.7.2026 2026/359 Sch. 15.10.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -62,27 +62,49 @@ REG.010 Registration eligibility
 
 (a) An aircraft may be registered by the Authority provided that the aircraft is not registered in any other country and is owned by;
 
-(1) a citizen of Gibraltar;
+(1) a natural person who is resident of, or a legal entity that is duly incorporated or otherwise legally established in, Gibraltar;
 
-(2) a citizen of another State, who is the holder of a valid Gibraltar residence document;
+(2) a natural person in another State, who is the holder of a valid Gibraltar residence document;
 
-(3) a company or trust lawfully incorporated in Gibraltar and carrying out business under the laws of Gibraltar;
+(3) the Government of Gibraltar;
 
-(4)  the Government;
+(4) a natural person who is a resident of, or a legal entity that is duly incorporated or otherwise legally established in, the United Kingdom, its Crown Dependencies or Overseas Territories;
 
-(5) a citizen or a company of the United Kingdom, its Crown Dependencies and Overseas Territories;
+(5) a natural person who is a resident of, or a legal entity that is duly incorporated or otherwise legally established in, any country that is a part of the Commonwealth as described under Schedule 3 of the British Nationality Act 1981 as amended from time to time;
 
-(6) a citizen or a company of the European Union;
+(6) a natural person who is a resident of, or a legal entity that is duly incorporated or otherwise legally established in, any country that is a part of the European Union;
 
-(7) a citizen or a company of Iceland, Liechtenstein, Norway and Switzerland; or
+(7) a natural person who is a resident of, or a legal entity that is duly incorporated or otherwise legally established in Iceland, Liechtenstein, Norway or Switzerland;
 
-(8) a citizen or a company of a State that is acceptable to the Authority and has selected a registered agent residing or legally established in Gibraltar, who is responsible for direct communication and notifications with the Authority.
+(8) a legal entity that is duly incorporated or otherwise legally established in—
+
+(i) Hong Kong (Special Administrative Region);
+
+(ii) United States of America;
+
+(iii) Japan;
+
+(iv) People’s Republic of China;
+
+(v) United Arab Emirates;
+
+(vi) Bahrain;
+
+(vii) Saudi Arabia;
+
+(viii) Oman;
+
+(ix) Qatar; or
+
+(9) a natural person who is a resident of, or a legal entity that is duly incorporated or otherwise legally established in any other State that is acceptable to the Authority and has selected a registered agent residing or legally established in Gibraltar, to act as a service of process agent.
 
 (b) An aircraft will not be eligible for a certificate of registration if the aircraft is registered under the laws of any other State.
 
 REG.015 State of Registry responsibilities in respect of advising State of Design
 
-The Authority, as the State of Registry shall ensure that, when it first enters on its register an aircraft of a particular type for which it is not the State of Design and issues a Certificate of Airworthiness in accordance with CAR 21, it shall advise the State of Design that it has entered such an aircraft on its register.
+The Authority, as the State of Registry shall ensure that, when it first enters on its register an aircraft of a particular type for which it is not the State of Design and issues a Certificate of
+
+Airworthiness in accordance with CAR 21, it shall advise the State of Design that it has entered such an aircraft on its register.
 
 REG.020 Register of nationality and registration marks
 
