@@ -38,8 +38,6 @@ Please complete a form in respect of each of the dependants for whom an applicat
 
 Health Centre No. Registration No.
 
-Zone
-
-Category
+Zone Category
 
 Renewal
