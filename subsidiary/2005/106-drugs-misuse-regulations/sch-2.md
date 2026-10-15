@@ -10,11 +10,11 @@ Diamorphine Diampromide Diethylthiambutene
 
 Difenoxin Dihydrocodeinone O- carboxymethyloxime Dihydroetorphine Dihydromorphine Dimenoxadole Dimepheptanol Dimethylthiambutene Dioxaphetyl butyrate Diphenoxylate
 
-Dipipanone Dronabinol
+Dipipanone Dronabinol Drotebanol
 
-Drotebanol Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine Ethylmethylthiambutene Etonitazene Etorphine Etoxeridine Fentanyl Furethidine Hydrocodone Hydromorphinol Hydromorphone Hydroxypethidine Isomethadone Ketobemidone Levomethorphan Levomoramide Levomoramide Levophenacylmorphan Levorphanol Lofentanil Medicinal Opium Metazocine Methadone Methadyl acetate Methyldesorphine Methyldihydromorphine (6-methyldihydromorphine) Metopon Morpheridine Morphine Morphine methobromide, morphine N-oxide and other pentavalent nitrogen morphine derivatives Myrophine Nicomorphine Noracymethadol Norlevorphanol Noracymethadone Normethadone Normorphine Norpipanone Oxycodone Oxymorphone
+Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine Ethylmethylthiambutene Etonitazene Etorphine Etoxeridine Fentanyl Furethidine Hydrocodone Hydromorphinol Hydromorphone Hydroxypethidine Isomethadone Ketobemidone Levomethorphan Levomoramide Levomoramide Levophenacylmorphan Levorphanol Lofentanil Medicinal Opium Metazocine Methadone Methadyl acetate Methyldesorphine Methyldihydromorphine (6-methyldihydromorphine) Metopon Morpheridine Morphine Morphine methobromide, morphine N-oxide and other pentavalent nitrogen morphine derivatives Myrophine Nicomorphine Noracymethadol Norlevorphanol Noracymethadone Normethadone Normorphine Norpipanone Oxycodone Oxymorphone Pethidine Phenadoxone
 
-Pethidine Phenadoxone Phenampromide Phenazocine Phencyclidine Phenomorphan Phenoperidine Piminodine Piritramide Proheptazine Properidine Racemethorphan Racemoramide Racemorphan Remifentanil Sufentanil Thebacon Thebaine Tilidate Trimeperidine Zipeprol 4-Cyano-2-dimethylamino-4, 4- diphenylbutane 4-Cyano-1-methyl-4- phenylpiperidine 2-Methyl-3-morpholino-1, 1-diphenylpropane- carboxylic acid α-Methylphenethylhydroxylamine 1-Methyl-4-phenylpiperidine-4-carboxylic acid 4-Phenylpiperidine-4-carboxylic acid ethyl ester
+Phenampromide Phenazocine Phencyclidine Phenomorphan Phenoperidine Piminodine Piritramide Proheptazine Properidine Racemethorphan Racemoramide Racemorphan Remifentanil Sufentanil Thebacon Thebaine Tilidate Trimeperidine Zipeprol 4-Cyano-2-dimethylamino-4, 4- diphenylbutane 4-Cyano-1-methyl-4- phenylpiperidine 2-Methyl-3-morpholino-1, 1-diphenylpropane- carboxylic acid α-Methylphenethylhydroxylamine 1-Methyl-4-phenylpiperidine-4-carboxylic acid 4-Phenylpiperidine-4-carboxylic acid ethyl ester
 
 2.  Any stereoisomeric form of a substance specified in paragraph 1 not being dextromethorphan or dextrorphan.
 

@@ -16,7 +16,9 @@ PART B
 
 1.  The following substances, namely
 
-4-Androstene-3, 17 dione Methenolone 5-Androstene-3, 17 diol Methyltestosterone Atamestane Metribolone Bolandiol Mibolerone Bolasterone Nandrolone Bolazine 19-Nor-Androstone-3, 17 dione Boldenone 19-Nor-Androstone-5, 17 diol Bolenol Norboletone Bolmantalate Norclostebol Calusterone Norethandrolone 4-Chloromethandienone Ovandrotone Clostebol Oxabolone Drostanolone Oxandrolone Enestebol Oxymesterone Epitiostanol Oxymetholone Ethyloestrenol Prasterone Fluoxymesterone Propetandrol Formebolone Quinbolone Furazabol Roxibolone Mebolazine Silandrone Mepitiostane Stanolone Mesabolone Stanozolol Mestanolone Stenbolone Mesterolone Testosterone Methandienone Thiomesterone Methandriol Trenbolone
+4-Androstene-3, 17 dione Methenolone
+
+5-Androstene-3, 17 diol Methyltestosterone Atamestane Metribolone Bolandiol Mibolerone Bolasterone Nandrolone Bolazine 19-Nor-Androstone-3, 17 dione Boldenone 19-Nor-Androstone-5, 17 diol Bolenol Norboletone Bolmantalate Norclostebol Calusterone Norethandrolone 4-Chloromethandienone Ovandrotone Clostebol Oxabolone Drostanolone Oxandrolone Enestebol Oxymesterone Epitiostanol Oxymetholone Ethyloestrenol Prasterone Fluoxymesterone Propetandrol Formebolone Quinbolone Furazabol Roxibolone Mebolazine Silandrone Mepitiostane Stanolone Mesabolone Stanozolol Mestanolone Stenbolone Mesterolone Testosterone Methandienone Thiomesterone Methandriol Trenbolone
 
 2.  Any compound (not being Trilostane or a compound for the time being specified in paragraph 1 of this Part of this Schedule) structurally derived from 17-hydroxyandrostan-3- one or from 17-hydroxyestran-3-one by modification in any of the following ways, that is to say
 
