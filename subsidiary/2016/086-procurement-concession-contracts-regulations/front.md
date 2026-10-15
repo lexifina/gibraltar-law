@@ -6,7 +6,7 @@ LN.2016/086
 
 Commencement 18.4.2016
 
-Amending enactments Relevant current provisions Commencement date LN.2020/452 rr. 2(1), 4(2), (7)-(10), 8(1)-(2), (4), 9(2)-(3), (5)(a), (6)(a), 11(a)-(b), (g), 12, 13(d)(i), (aa), (bb), (ii)(bb), (13A), (15), 12(5)(a)-(b), 14, 16(1)(c), (2), (4)(c), 19(5), 20(1)-(2), (6)(a), (8), 21(6), 22(1), (5)(a), (7), 24(1), 29(2)(a), (5)(a), 30(1)-(4), 31(1)-(5), 32(1), 36(15)(a), 37(3), 41(3)-(4), 42(a)-(c), 43(5)(a), 46(1)(b), (2), 50(3), 56(2), (3)(a)-(c), (4), (c) 1.1.2021 2021/029 r. 47 1.1.2021 2021/228 rr. 5(2)(b)(i), (c), 9(4), (7) 1.1.2021 2022/239 r. 8(1) 11.8.2022 2024/006 r. 8(1) 25.1.2024 2026/012 r. 8(1) 15.1.2026
+Amending enactments Relevant current provisions Commencement date LN.2020/452 rr. 2(1), 4(2), (7)-(10), 8(1)-(2), (4), 9(2)-(3), (5)(a), (6)(a), 11(a)-(b), (g), 12, 13(d)(i), (aa), (bb), (ii)(bb), (13A), (15), 12(5)(a)-(b), 14, 16(1)(c), (2), (4)(c), 19(5), 20(1)-(2), (6)(a), (8), 21(6), 22(1), (5)(a), (7), 24(1), 29(2)(a), (5)(a), 30(1)-(4), 31(1)-(5), 32(1), 36(15)(a), 37(3), 41(3)-(4), 42(a)-(c), 43(5)(a), 46(1)(b), (2), 50(3), 56(2), (3)(a)-(c), (4), (c) 1.1.2021 2021/029 r. 47 1.1.2021 2021/228 rr. 5(2)(b)(i), (c), 9(4), (7) 1.1.2021 2022/239 r. 8(1) 11.8.2022 2024/006 r. 8(1) 25.1.2024 2026/012 r. 8(1) 15.1.2026 2026/357 rr. 2(1), 17(4)-(7), 29(5A), 29A 15.10.2026
 
 Transposing: Directive 2014/23/EU
 
@@ -44,7 +44,7 @@ PART 2 RULES ON THE AWARD OF CONCESSION CONTRACTS
 
 Chapter 1 General principles
 
-28. General principles. 29. Concession notices. 30. Concession award notices. 31. Form and manner of publication of notices. 32. Electronic availability of concession documents. 33. Combating corruption and preventing conflicts of interest.
+28. General principles. 29. Concession notices. 29A. Use of the negotiated procedure without prior publication. 30. Concession award notices. 31. Form and manner of publication of notices. 32. Electronic availability of concession documents. 33. Combating corruption and preventing conflicts of interest.
 
 Chapter 2 Procedural guarantees
 
