@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2000/027 r
 
 19.12.2024 2025/009 r. 3A(2) 16.1.2025 2025/078 rr. 1(1), 2, 5 10.4.2025 2026/337 rr. 2, 5B-5E, Sch.4 17.9.2026 2026/340 rr. 5B(1A)-(1C), (2)-(5), 5C(1)-(2), 5D(1), (5), 5E(6), Sch.4
 
-24.9.2026
+24.9.2026 2026/369 r. 3(7ZB) 23.10.2023
 
 1 Notice of Commencement (LN.2000/026)
 
