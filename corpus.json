@@ -28,5 +28,9 @@
       "decided_here": false
     }
   },
-  "tool": "tools/on_date.py"
+  "tool": "tools/on_date.py",
+  "citation": {
+    "file": "(.+)/s-0*([0-9]+[A-Za-z]*)\\.md",
+    "cites": "([Ss]ection|s\\.) ?{n}([^0-9A-Za-z]|$)"
+  }
 }
