@@ -1,0 +1,106 @@
+# Gibraltar Constitution Order 2006
+
+<https://www.gibraltarlaws.gov.gi/legislations/gibraltar-constitution-order-2006-1834>
+
+1 dated versions on the site, in force from 2007-01-02 (latest 2007-01-02).
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Opening words | [order/preamble.md](order/preamble.md) | 0 |  |
+| s. 1 | [order/s-001.md](order/s-001.md) | 0 |  |
+| s. 2 | [order/s-002.md](order/s-002.md) | 0 |  |
+| Arrangement of sections | [annex1/arrangement.md](annex1/arrangement.md) | 0 |  |
+| Opening words | [annex1/preamble.md](annex1/preamble.md) | 0 |  |
+| s. 1 | [annex1/s-001.md](annex1/s-001.md) | 0 |  |
+| s. 2 | [annex1/s-002.md](annex1/s-002.md) | 0 |  |
+| s. 3 | [annex1/s-003.md](annex1/s-003.md) | 0 |  |
+| s. 4 | [annex1/s-004.md](annex1/s-004.md) | 0 |  |
+| s. 5 | [annex1/s-005.md](annex1/s-005.md) | 0 |  |
+| s. 6 | [annex1/s-006.md](annex1/s-006.md) | 0 |  |
+| s. 7 | [annex1/s-007.md](annex1/s-007.md) | 0 |  |
+| s. 8 | [annex1/s-008.md](annex1/s-008.md) | 0 |  |
+| s. 9 | [annex1/s-009.md](annex1/s-009.md) | 0 |  |
+| s. 10 | [annex1/s-010.md](annex1/s-010.md) | 0 |  |
+| s. 11 | [annex1/s-011.md](annex1/s-011.md) | 0 |  |
+| s. 12 | [annex1/s-012.md](annex1/s-012.md) | 0 |  |
+| s. 13 | [annex1/s-013.md](annex1/s-013.md) | 0 |  |
+| s. 14 | [annex1/s-014.md](annex1/s-014.md) | 0 |  |
+| s. 15 | [annex1/s-015.md](annex1/s-015.md) | 0 |  |
+| s. 16 | [annex1/s-016.md](annex1/s-016.md) | 0 |  |
+| s. 17 | [annex1/s-017.md](annex1/s-017.md) | 0 |  |
+| s. 18 | [annex1/s-018.md](annex1/s-018.md) | 0 |  |
+| s. 19 | [annex1/s-019.md](annex1/s-019.md) | 0 |  |
+| s. 20 | [annex1/s-020.md](annex1/s-020.md) | 0 |  |
+| s. 21 | [annex1/s-021.md](annex1/s-021.md) | 0 |  |
+| s. 22 | [annex1/s-022.md](annex1/s-022.md) | 0 |  |
+| s. 23 | [annex1/s-023.md](annex1/s-023.md) | 0 |  |
+| s. 24 | [annex1/s-024.md](annex1/s-024.md) | 0 |  |
+| s. 25 | [annex1/s-025.md](annex1/s-025.md) | 0 |  |
+| s. 26 | [annex1/s-026.md](annex1/s-026.md) | 0 |  |
+| s. 27 | [annex1/s-027.md](annex1/s-027.md) | 0 |  |
+| s. 28 | [annex1/s-028.md](annex1/s-028.md) | 0 |  |
+| s. 29 | [annex1/s-029.md](annex1/s-029.md) | 0 |  |
+| s. 30 | [annex1/s-030.md](annex1/s-030.md) | 0 |  |
+| s. 31 | [annex1/s-031.md](annex1/s-031.md) | 0 |  |
+| s. 32 | [annex1/s-032.md](annex1/s-032.md) | 0 |  |
+| s. 33 | [annex1/s-033.md](annex1/s-033.md) | 0 |  |
+| s. 34 | [annex1/s-034.md](annex1/s-034.md) | 0 |  |
+| s. 35 | [annex1/s-035.md](annex1/s-035.md) | 0 |  |
+| s. 36 | [annex1/s-036.md](annex1/s-036.md) | 0 |  |
+| s. 37 | [annex1/s-037.md](annex1/s-037.md) | 0 |  |
+| s. 38 | [annex1/s-038.md](annex1/s-038.md) | 0 |  |
+| s. 39 | [annex1/s-039.md](annex1/s-039.md) | 0 |  |
+| s. 40 | [annex1/s-040.md](annex1/s-040.md) | 0 |  |
+| s. 41 | [annex1/s-041.md](annex1/s-041.md) | 0 |  |
+| s. 42 | [annex1/s-042.md](annex1/s-042.md) | 0 |  |
+| s. 43 | [annex1/s-043.md](annex1/s-043.md) | 0 |  |
+| s. 44 | [annex1/s-044.md](annex1/s-044.md) | 0 |  |
+| s. 45 | [annex1/s-045.md](annex1/s-045.md) | 0 |  |
+| s. 46 | [annex1/s-046.md](annex1/s-046.md) | 0 |  |
+| s. 47 | [annex1/s-047.md](annex1/s-047.md) | 0 |  |
+| s. 48 | [annex1/s-048.md](annex1/s-048.md) | 0 |  |
+| s. 49 | [annex1/s-049.md](annex1/s-049.md) | 0 |  |
+| s. 50 | [annex1/s-050.md](annex1/s-050.md) | 0 |  |
+| s. 51 | [annex1/s-051.md](annex1/s-051.md) | 0 |  |
+| s. 52 | [annex1/s-052.md](annex1/s-052.md) | 0 |  |
+| s. 53 | [annex1/s-053.md](annex1/s-053.md) | 0 |  |
+| s. 54 | [annex1/s-054.md](annex1/s-054.md) | 0 |  |
+| s. 55 | [annex1/s-055.md](annex1/s-055.md) | 0 |  |
+| s. 56 | [annex1/s-056.md](annex1/s-056.md) | 0 |  |
+| s. 57 | [annex1/s-057.md](annex1/s-057.md) | 0 |  |
+| s. 58 | [annex1/s-058.md](annex1/s-058.md) | 0 |  |
+| s. 59 | [annex1/s-059.md](annex1/s-059.md) | 0 |  |
+| s. 60 | [annex1/s-060.md](annex1/s-060.md) | 0 |  |
+| s. 61 | [annex1/s-061.md](annex1/s-061.md) | 0 |  |
+| s. 62 | [annex1/s-062.md](annex1/s-062.md) | 0 |  |
+| s. 63 | [annex1/s-063.md](annex1/s-063.md) | 0 |  |
+| s. 64 | [annex1/s-064.md](annex1/s-064.md) | 0 |  |
+| s. 65 | [annex1/s-065.md](annex1/s-065.md) | 0 |  |
+| s. 66 | [annex1/s-066.md](annex1/s-066.md) | 0 |  |
+| s. 67 | [annex1/s-067.md](annex1/s-067.md) | 0 |  |
+| s. 68 | [annex1/s-068.md](annex1/s-068.md) | 0 |  |
+| s. 69 | [annex1/s-069.md](annex1/s-069.md) | 0 |  |
+| s. 70 | [annex1/s-070.md](annex1/s-070.md) | 0 |  |
+| s. 71 | [annex1/s-071.md](annex1/s-071.md) | 0 |  |
+| s. 72 | [annex1/s-072.md](annex1/s-072.md) | 0 |  |
+| s. 73 | [annex1/s-073.md](annex1/s-073.md) | 0 |  |
+| s. 74 | [annex1/s-074.md](annex1/s-074.md) | 0 |  |
+| s. 75 | [annex1/s-075.md](annex1/s-075.md) | 0 |  |
+| s. 76 | [annex1/s-076.md](annex1/s-076.md) | 0 |  |
+| s. 77 | [annex1/s-077.md](annex1/s-077.md) | 0 |  |
+| s. 78 | [annex1/s-078.md](annex1/s-078.md) | 0 |  |
+| s. 79 | [annex1/s-079.md](annex1/s-079.md) | 0 |  |
+| s. 80 | [annex1/s-080.md](annex1/s-080.md) | 0 |  |
+| s. 81 | [annex1/s-081.md](annex1/s-081.md) | 0 |  |
+| s. 82 | [annex1/s-082.md](annex1/s-082.md) | 0 |  |
+| s. 83 | [annex1/s-083.md](annex1/s-083.md) | 0 |  |
+| s. 84 | [annex1/s-084.md](annex1/s-084.md) | 0 |  |
+| Schedule | [annex1/schedule.md](annex1/schedule.md) | 0 |  |
+| s. 1 | [annex2/s-001.md](annex2/s-001.md) | 0 |  |
+| s. 2 | [annex2/s-002.md](annex2/s-002.md) | 0 |  |
+| s. 3 | [annex2/s-003.md](annex2/s-003.md) | 0 |  |
+| s. 4 | [annex2/s-004.md](annex2/s-004.md) | 0 |  |
+| s. 5 | [annex2/s-005.md](annex2/s-005.md) | 0 |  |
+| s. 6 | [annex2/s-006.md](annex2/s-006.md) | 0 |  |
+| s. 7 | [annex2/s-007.md](annex2/s-007.md) | 0 |  |
+| s. 8 | [annex2/s-008.md](annex2/s-008.md) | 0 |  |

@@ -1,0 +1,165 @@
+{
+ "built": "2026-10-28",
+ "source": "https://www.gibraltarlaws.gov.gi",
+ "acts": [
+  {
+   "id": "2007-00",
+   "slug": "constitution",
+   "title": "Gibraltar Constitution Order 2006",
+   "page": "https://www.gibraltarlaws.gov.gi/legislations/gibraltar-constitution-order-2006-1834",
+   "page_sha256": "b117d5cfac87d152af05bf3284762627d5ccae7aa1a95eff7e2b5ddba59623b1",
+   "versions": [
+    {
+     "from": "2007-01-02",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/gibraltar-constitution/2007-00/2007-00.pdf",
+     "sha256": "c58a27197fb3e2901dbc8c028bf7259020f252ad2ec225beaaaa8b6a700be64e",
+     "pages": 61,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/gibraltar-constitution-order-2006-1834/version/02-01-2007"
+    }
+   ],
+   "amending": []
+  },
+  {
+   "id": "2005-73",
+   "slug": "stamp-duties",
+   "title": "Stamp Duties Act 2005",
+   "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262",
+   "page_sha256": "055bce99d4a3ae9c61e15ad3c7dca979d491c31062d2288543606bf828082879",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73o.pdf",
+     "sha256": "b132b92ace3d9cf1a561d9aa86764109e90c5545693be13d6c15abb0f109faec",
+     "pages": 33,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/12-01-2006"
+    },
+    {
+     "from": "2006-06-05",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(05-06-06).pdf",
+     "sha256": "94a732bac94f7de1d60c389bb97fc7df25c95459af7e935eae1ce873cab2027d",
+     "pages": 34,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/05-06-2006"
+    },
+    {
+     "from": "2010-07-01",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(01-07-10).pdf",
+     "sha256": "8cb6ce3cbcb1c37f324486620c2b425f8d463634085afa5e14d49e76d643b882",
+     "pages": 34,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/01-07-2010"
+    },
+    {
+     "from": "2013-06-24",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(24-06-13).pdf",
+     "sha256": "831ba4a6717e75f238a2fd795321cb47ebce268c90ffb357f71fe740d3e00111",
+     "pages": 35,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/24-06-2013"
+    },
+    {
+     "from": "2014-07-01",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(01-07-14).pdf",
+     "sha256": "d5cf81e2ce20497d976bbbdbea936669484cccde5bb6868291e28ee3d537b847",
+     "pages": 35,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/01-07-2014"
+    },
+    {
+     "from": "2015-06-23",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(23-06-15).pdf",
+     "sha256": "d0e3d8dc483a1d2da95029e30f61d9f04caf7974a2968b8c009bda91f51d42d1",
+     "pages": 35,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/23-06-2015"
+    },
+    {
+     "from": "2016-01-01",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(01-01-16).pdf",
+     "sha256": "e0e2403e44d929144b10ebdf1617fe2d5eb7db84b5d2fc395ea509ddf60b1f18",
+     "pages": 35,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/01-01-2016"
+    },
+    {
+     "from": "2018-07-01",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(01-07-18).pdf",
+     "sha256": "b0d125df6f2b59788a2b71dcc263ee9ff1dbecbc4b049ffab4ac9f5bf4aecb32",
+     "pages": 34,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/01-07-2018"
+    },
+    {
+     "from": "2023-07-11",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(11-07-23).pdf",
+     "sha256": "3c270b7af391df289d1882ad1e07c6bd8263c67ef4b99fc2198e90af3203d50a",
+     "pages": 34,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/11-07-2023"
+    },
+    {
+     "from": "2023-08-01",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(01-08-23).pdf",
+     "sha256": "86d8a6bb1d3f59c2412a471d46d75ac77e71c2c60c79f7f7d5a947a36acd8da2",
+     "pages": 34,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/01-08-2023"
+    },
+    {
+     "from": "2024-12-23",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2005-73(23-12-24).pdf",
+     "sha256": "2bda1cf6a9b3a9913d8b38dee70c9fdf33646e4d539ef3ecaee2eb0dd097224d",
+     "pages": 33,
+     "page": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-act-2005-1262/version/23-12-2024"
+    }
+   ],
+   "amending": [
+    {
+     "number": "2006-16",
+     "title": "Stamp Duties (Amendment) Act 2006",
+     "url": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-amendment-act-2006-1480",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2006-16.pdf",
+     "assent": null,
+     "gazette": null
+    },
+    {
+     "number": "2010-17",
+     "title": "Stamp Duties (Amendment) Act 2010",
+     "url": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-amendment-act-2010-2589",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2010-17.pdf",
+     "assent": null,
+     "gazette": null
+    },
+    {
+     "number": "2014-02",
+     "title": "Stamp Duties (Amendment) Act 2014",
+     "url": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-amendment-act-2014-3519",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2014-02.pdf",
+     "assent": null,
+     "gazette": null
+    },
+    {
+     "number": "2019-25",
+     "title": "Stamp Duties (Amendment) Act 2019",
+     "url": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-amendment-act-2019-4651",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2019-25.pdf",
+     "assent": null,
+     "gazette": null
+    },
+    {
+     "number": "2023-17",
+     "title": "Land Registry Portal and Electronic Stamping Act 2023",
+     "url": "https://www.gibraltarlaws.gov.gi/legislations/land-registry-portal-and-electronic-stamping-act-2023-7102",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/gibraltar-land-titles/2011-06/2023-17.pdf",
+     "assent": "2023-07-24",
+     "gazette": {
+      "no": "5074",
+      "date": "2023-07-27"
+     }
+    },
+    {
+     "number": "2024-37",
+     "title": "Stamp Duties (Amendment) Act 2024",
+     "url": "https://www.gibraltarlaws.gov.gi/legislations/stamp-duties-amendment-act-2024-7497",
+     "pdf": "https://www.gibraltarlaws.gov.gi/uploads/legislations/stamp-duties/2005-73/2024-37.pdf",
+     "assent": "2024-12-23",
+     "gazette": {
+      "no": "5197",
+      "date": "2024-12-23"
+     }
+    }
+   ]
+  }
+ ]
+}
