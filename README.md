@@ -1,5 +1,7 @@
 # Gibraltar law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Gibraltar's national law, which global-law reads at `gibraltar/national/acts/`.
+
 Two texts of Gibraltar as a git repository: the Gibraltar Constitution Order 2006 and the Stamp Duties Act 2005
 (Act 2005-73). Each amending enactment is one commit, credited to that enactment and dated the day it took effect, at
 noon in Gibraltar. The text is read from the PDFs on the Government of Gibraltar's
