@@ -62,9 +62,7 @@ Supplemental
 
 27A. Prohibited contracts of insurance.
 
-Chapter 3
-
-Insurance management
+Chapter 3 Insurance management
 
 28. Interpretation of Chapter 3 of Part 5.
 
@@ -96,7 +94,9 @@ Chapter 1 General
 
 Chapter 2 Investment services and investment activities
 
-44. Interpretation of Chapter 2 of Part 6. 45. Ancillary services. 46. Financial instruments to which Chapter 2 applies. 47. Terminology used in paragraph 46.
+44. Interpretation of Chapter 2 of Part 6.
+
+45. Ancillary services. 46. Financial instruments to which Chapter 2 applies. 47. Terminology used in paragraph 46.
 
 The regulated activities
 
@@ -148,9 +148,7 @@ PART 9 MARKETS IN FINANCIAL INSTRUMENTS
 
 General
 
-83. Application of Part 9 of this Schedule.
-
-84. Markets to which this Part applies.
+83. Application of Part 9 of this Schedule. 84. Markets to which this Part applies.
 
 The regulated activity
 
@@ -182,9 +180,9 @@ Chapter 2 Collective investment schemes
 
 The regulated activities
 
-93. Managing a UCITS. 94. Acting as depositary of a UCITS. 94A. Acting as trustees of a UCITS. 94B. Acting as sole director of a UCITS. 95. Managing an AIF (in-scope AIFM). 96. Acting as depositary of an AIF with an in-scope AIFM.
+93. Managing a UCITS. 94. Acting as depositary of a UCITS. 94A. Acting as trustees of a UCITS. 94B. Acting as sole director of a UCITS. 95. Managing an AIF (in-scope AIFM). 96. Acting as depositary of an AIF with an in-scope AIFM. 97. Managing an AIF (small scheme manager). 98. Acting as depositary of an AIF with a small scheme manager. 99. Establishing etc. a collective investment scheme. 100. Acting as bank and/or broker of an experienced investor fund. 101. Acting as depositary of a private scheme.
 
-97. Managing an AIF (small scheme manager). 98. Acting as depositary of an AIF with a small scheme manager. 99. Establishing etc. a collective investment scheme. 100. Acting as bank and/or broker of an experienced investor fund. 101. Acting as depositary of a private scheme. 102. Acting as administrator of a collective investment scheme.
+102. Acting as administrator of a collective investment scheme.
 
 Exclusions
 
@@ -210,13 +208,13 @@ General
 
 The regulated activities
 
-118. Granting credit by means of a mortgage credit agreement.
-
-119. Acting as a mortgage credit intermediary. 120. Providing advisory services in connection with mortgage credit.
+118. Granting credit by means of a mortgage credit agreement. 119. Acting as a mortgage credit intermediary. 120. Providing advisory services in connection with mortgage credit.
 
 Exclusions
 
-121. Omitted. 122. Mortgage creditors. 123. Mere introducers. 124. Recommendations relating to existing debt.
+121. Omitted.
+
+122. Mortgage creditors. 123. Mere introducers. 124. Recommendations relating to existing debt.
 
 PART 13 COMPANIES, FOUNDATIONS, PARTNERSHIPS AND UNINCORPORATED ASSOCIATIONS
 
@@ -892,7 +890,9 @@ Assistance for persons who get into difficulties while travelling, while away fr
 
 Table: Classification of multiple classes of non-life insurance
 
-Column 1 Column 2 Column 3 Entry Classes of non-life insurance Classification (a) Classes 1 and 2 Accident and Health Insurance (b) Classes 1 (fourth indent), 3, 7 and 10 Motor Insurance (c) Classes 1 (fourth indent), 4, 6, 7 and 12 Marine and Transport Insurance (d) Classes 1 (fourth indent), 5, 7 and 11 Aviation Insurance (e) Classes 8 and 9 Insurance against Fire and other Damage to Property (f) Classes 10, 11, 12 and 13 Liability Insurance (g) Classes 14 and 15 Credit and Suretyship Insurance (h) All classes. General
+Column 1 Column 2 Column 3
+
+Entry Classes of non-life insurance Classification (a) Classes 1 and 2 Accident and Health Insurance (b) Classes 1 (fourth indent), 3, 7 and 10 Motor Insurance (c) Classes 1 (fourth indent), 4, 6, 7 and 12 Marine and Transport Insurance (d) Classes 1 (fourth indent), 5, 7 and 11 Aviation Insurance (e) Classes 8 and 9 Insurance against Fire and other Damage to Property (f) Classes 10, 11, 12 and 13 Liability Insurance (g) Classes 14 and 15 Credit and Suretyship Insurance (h) All classes. General
 
 Classes of life insurance.
 

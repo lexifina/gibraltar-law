@@ -140,11 +140,11 @@ section 406(2)
 
 market operator (in Part 22):
 
-section 423 medium-sized undertakings (in Part 24):
+section 423
 
-section 473
+medium-sized undertakings (in Part 24):
 
-micro, small or medium-sized enterprise (in Part 15): section 196
+section 473 micro, small or medium-sized enterprise (in Part 15): section 196
 
 multiple-vote securities (in Part 20):
 
@@ -216,9 +216,7 @@ Scheme participant (in Part 15):
 
 section 196
 
-Scheme target level (in Chapter 3 of Part 15): section 204
-
-securities: (in Chapter 3 of Part 19):
+Scheme target level (in Chapter 3 of Part 15): section 204 securities: (in Chapter 3 of Part 19):
 
 section 344 (in Chapter 4 of Part 19):
 
@@ -262,9 +260,7 @@ Part 2 References to EU Regulations
 
 “the Benchmarks Regulation” means Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds;
 
-“the CSD Regulation” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European
-
-Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012;
+“the CSD Regulation” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012;
 
 “the ELTIF Regulation” means Regulation (EU) No 760/2015 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds;
 
@@ -286,11 +282,11 @@ Union and on central securities depositories and amending Directives 98/26/EC an
 
 “the Prospectus Regulation” means Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC;
 
-“Regulation (EU) No 231/2013” means Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the
+“Regulation (EU) No 231/2013” means Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision;
 
-European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision;
+“Regulation (EU) No 1031/2010” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the
 
-“Regulation (EU) No 1031/2010” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community;
+European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community;
 
 “the REMIT Regulation” means Regulation (EU) No 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency; and
 

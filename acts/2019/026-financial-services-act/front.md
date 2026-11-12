@@ -8,17 +8,17 @@ Act. No. 2019-26 Commencement LN.2020/004 (Parts 1-13, 15- 31 & Schs. 1-16, 18-2
 
 Amending enactments Relevant current provisions Commencement date LN.2020/005 ss.24(3)(g), 25(2)(a), 382, 344(1)-(3), 345(2), 346- 348A, 349(2)(a), (3)(a), (c), (7)(a)-(b), 350(1), 351- 351A, Sch.2, 8, 21, 24A, 28, 29
 
-15.1.2019 2020/053 Sch. 2 30.1.2020 2020/175 s. 163(2)-(6), Sch. 28 7.5.2020 2020/421 Sch. 2 26.11.2020 2020/475 Sch. 13 28.12.2020 2020/457 s. 216(8) 1.1.2021 2020/500 ss. 2(1)(a)-(c), 2(2), (3)(b), (4)-(5), 7(2)(b)-(d), 12(6)(b)(iv), 19, 20(1)-(2), 22(1)(k), 33(1), 46(1)(a), 50(2), 53(b), 54(1)(b)-(c), 57-60, 61(2)(c), 63(6), 66, 73(4)-(5), (7), 77(3)(c), 83(1), (3), 84, 86(1)(b)-(c), 87(3), 88(3), 107(1), 108(b), 117(4)(b), (6)(a)(ii), 121, 123(4)(a)-(b), 149(1)(c), (d)(ii), 179(1), 182(6), 188(3), 195(a)-(b), 196, 200(1)(e), (4), 205(1)-(3), 206(1)(b), (2), 207(1)-(4), (6), 208(1), (7)(a)-(c), (9), 209(5), (19), 211, 212(1)(b), (2)(c), (f)-(g), 216(2), 217(8)(e), (9), 218(1), (3), 221(4)(a)-(c), 222(1)-(2), (4)(a), (6), 223-225, 226(c), 227, 228(6), 229(a)(i)- (ii), (b)(i), 230(8), 231(6), 233-234, 236, 237(1)-(2), 244(2)(a), 247-248, 249(1), (3), 250-253, 254(1), (3), 255(4), 256(a), 258(1)-(2), (2A), (3), 259-264, 265(1), (a), (2), 266(1), 269(4)(a), 275(4), 277, 278(1)(a)-(b), 279, 281, 282(1), 283(1)(d)-(e), (2), 284(2), (4)(f), (5)(a)-(b), (6), 287, 288(b)(ii)-(iv), 289, 291(4)(a)-(c), 292(3)(b), (d), (9), 294, 299(5)- (6), 300, 302(1)(b)-(d), 304(4)(b), 305(5), 309(5)(c), (6)(a), (8), 313(4)(b), 316, 322-324, 328(1)(g), 331(1)(f)-(h), 338(1), (2)(a), (c)-(e), 340(1), 342(1)- (2), 343(2), 344(1)-(2), 345(1)-(3), 346, 346A(1), (a), (2), (3), (b), 346B(5), 346(C)(1)-(2), 346D(5), 346E(1)(b)(ii), (4)(b), 347(1), 348, 348A(1), 349(2)(a), (3)(a), (c), (7), 350(1)(d), 351(10), 351A(1)(a)-(b), 352-354, 355(1), 356(1)-(3), 357,
+15.1.2019 2020/053 Sch. 2 30.1.2020 2020/175 s. 163(2)-(6), Sch. 28 7.5.2020 2020/421 Sch. 2 26.11.2020 2020/475 Sch. 13 28.12.2020 2020/457 s. 216(8) 1.1.2021 2020/500 ss. 2(1)(a)-(c), 2(2), (3)(b), (4)-(5), 7(2)(b)-(d), 12(6)(b)(iv), 19, 20(1)-(2), 22(1)(k), 33(1), 46(1)(a), 50(2), 53(b), 54(1)(b)-(c), 57-60, 61(2)(c), 63(6), 66, 73(4)-(5), (7), 77(3)(c), 83(1), (3), 84, 86(1)(b)-(c), 87(3), 88(3), 107(1), 108(b), 117(4)(b), (6)(a)(ii), 121, 123(4)(a)-(b), 149(1)(c), (d)(ii), 179(1), 182(6), 188(3), 195(a)-(b), 196, 200(1)(e), (4), 205(1)-(3), 206(1)(b), (2), 207(1)-(4), (6), 208(1), (7)(a)-(c), (9), 209(5), (19), 211, 212(1)(b), (2)(c), (f)-(g), 216(2), 217(8)(e), (9), 218(1), (3), 221(4)(a)-(c), 222(1)-(2), (4)(a), (6), 223-225, 226(c), 227, 228(6), 229(a)(i)- (ii), (b)(i), 230(8), 231(6), 233-234, 236, 237(1)-(2), 244(2)(a), 247-248, 249(1), (3), 250-253, 254(1), (3), 255(4), 256(a), 258(1)-(2), (2A), (3), 259-264, 265(1), (a), (2), 266(1), 269(4)(a), 275(4), 277, 278(1)(a)-(b), 279, 281, 282(1), 283(1)(d)-(e), (2), 284(2), (4)(f), (5)(a)-(b), (6), 287, 288(b)(ii)-(iv), 289, 291(4)(a)-(c), 292(3)(b), (d), (9), 294, 299(5)- (6), 300, 302(1)(b)-(d), 304(4)(b), 305(5), 309(5)(c), (6)(a), (8), 313(4)(b), 316, 322-324, 328(1)(g), 331(1)(f)-(h), 338(1), (2)(a), (c)-(e), 340(1), 342(1)- (2), 343(2), 344(1)-(2), 345(1)-(3), 346, 346A(1), (a), (2), (3), (b), 346B(5), 346(C)(1)-(2), 346D(5), 346E(1)(b)(ii), (4)(b), 347(1), 348, 348A(1), 349(2)(a), (3)(a), (c), (7), 350(1)(d), 351(10), 351A(1)(a)-(b), 352-354, 355(1), 356(1)-(3), 357, 358(1), (6), 359(3), 362(1)(b)-(e), (3)(a)-(b), 363(1),
 
-358(1), (6), 359(3), 362(1)(b)-(e), (3)(a)-(b), 363(1), (3), (6)-(9), (11), 365, 366(9), (12)-(13), 367(2), (a), 368(5)(b), (7)(b), (8)(h), 370(1), 371, 373(2), (4)-(5), 374(2)(a), (3), (5)-(6), 375(1)(a)-(b), (3), (5), 376- 377, 378(1)-(2), 379(1)-(2), (4)-(5), (7), 380(1)(f), 383-385, 386(1), (4), 388(1)-(4), (5)(a), 389, 391(4), 393(1), (4), 396(2)(a), 398(1)(c), 399(1), (8), 400(1)- (2), (3)(b), (4), (a)-(d), 405, 406(1)-(3), 407(2), 408(1)(a)-(c), (2), 410(2)(a)(iii), (4), 411(3), 413(1), 414(1)(b)(ii), (4)(b)(ii), 419, 420(a)(ii), 421, 429(3), 430(6), 431(4), 432-433, 434(1)-(2), 435(2)(b), (3), (5), 438(2), 439(2), 441-442, 444(1)-(3), 445-446, 448(1), (2)(b), (3), (6), 451(1)(b)-(d), 455(2), 456- 459, 460(11), 463-473, 474(3)(a)-(c), (5), 475, 477(4), 478, 479(1)-(3), 481, 483(1)(b), 484(a)-(b), 487(3), 488(1)(c), (2), 489(1)(h)-(i), (2), 492(1)-(3), 494(6), 496(d), 498(5)-(7), 503(1), 504(2), (4)(b), (6)-(8), (10), 505(1), (2)(e), 506(1)(h), (4), 512, 520(1)(b), (3), 522(1)(b), 524, 526-528, 531(3), (6)(a), (c), (d)(i), (e), (6A), 532, 533(1)-(2), (4)-(9), 534(1)-(3), 535(1)(a), (c), (e), (2)(e)(i), (3), (4)(a), (c), (5), 536, 556, 560(1)-(3), 565(3), 568(1), (2)(a), 570(1), (6), 580, 581(1)(a), 582(a)-(c), 583(a)-(c), 584, 586-587, 588(b), 589, 624(1), 626(2)(b), 626A, Sch.1-3, 8, 10-14, 19-20, 22-24, 24A, 25-27
+(3), (6)-(9), (11), 365, 366(9), (12)-(13), 367(2), (a), 368(5)(b), (7)(b), (8)(h), 370(1), 371, 373(2), (4)-(5), 374(2)(a), (3), (5)-(6), 375(1)(a)-(b), (3), (5), 376- 377, 378(1)-(2), 379(1)-(2), (4)-(5), (7), 380(1)(f), 383-385, 386(1), (4), 388(1)-(4), (5)(a), 389, 391(4), 393(1), (4), 396(2)(a), 398(1)(c), 399(1), (8), 400(1)- (2), (3)(b), (4), (a)-(d), 405, 406(1)-(3), 407(2), 408(1)(a)-(c), (2), 410(2)(a)(iii), (4), 411(3), 413(1), 414(1)(b)(ii), (4)(b)(ii), 419, 420(a)(ii), 421, 429(3), 430(6), 431(4), 432-433, 434(1)-(2), 435(2)(b), (3), (5), 438(2), 439(2), 441-442, 444(1)-(3), 445-446, 448(1), (2)(b), (3), (6), 451(1)(b)-(d), 455(2), 456- 459, 460(11), 463-473, 474(3)(a)-(c), (5), 475, 477(4), 478, 479(1)-(3), 481, 483(1)(b), 484(a)-(b), 487(3), 488(1)(c), (2), 489(1)(h)-(i), (2), 492(1)-(3), 494(6), 496(d), 498(5)-(7), 503(1), 504(2), (4)(b), (6)-(8), (10), 505(1), (2)(e), 506(1)(h), (4), 512, 520(1)(b), (3), 522(1)(b), 524, 526-528, 531(3), (6)(a), (c), (d)(i), (e), (6A), 532, 533(1)-(2), (4)-(9), 534(1)-(3), 535(1)(a), (c), (e), (2)(e)(i), (3), (4)(a), (c), (5), 536, 556, 560(1)-(3), 565(3), 568(1), (2)(a), 570(1), (6), 580, 581(1)(a), 582(a)-(c), 583(a)-(c), 584, 586-587, 588(b), 589, 624(1), 626(2)(b), 626A, Sch.1-3, 8, 10-14, 19-20, 22-24, 24A, 25-27
 
 1.1.2021 2021/125 s. 474(3)(a)(ii), (b)-(c) 1.1.2021 2022/188 ss. 2(2), 359(3)(a)(i), 360(3), (4)(c), 473, 481(a)(iii), Sch.1, 25
 
 1.1.2021 Act.2021-08 s. 131(3), Sch. 9 9.2.2021 LN.2021/200 ss. 45(1), 473 25.3.2021 2021/375 Sch. 4, 9 19.8.2021 2021/436 ss. 86(1)(d), 87(2A), 90(1), 294(a)-(b), Sch. 15 28.10.2021 2021/487 ss. 78(2A), 79(3), 79A 16.12.2021 2021/492 s. 626A(1), (3)(b)(ii) 1.1.2022 2021/493 ss. 281, 282(1), 284(4)(g), Sch. 13 1.1.2022 2022/132 ss. 24(4)(a)-(b), 45(1), 83A, 474(2A), (3)(c) 26.5.2022 2022/156 s. 214(1)-(2) 23.6.2022 2022/211 ss. 346A(1), 346B(7), 350(4) 28.7.2022 2022/266 ss. 46(3)(c), (4), 47, 578(1) 8.9.2022 2022/308 ss. 289, 292, (1), 294, 297, 299(1), 302(1)(c), (3) 10.11.2022 2023/074 ss. 2(2), 26(1), 62(1), 117(4)(a), (7), 119(f)(i), 123(4)(b), 149(1)(c), (d)(ii), (3), 240(3)(a), 282(1), 334(5), 358(4)(c), 359(6), 360(9), 361(1), 381(5), 613(4), Schs. 2, 12-13, 26
 
-30.3.2023
+30.3.2023 2023/104 s. 612(4), (4A) 4.5.2023
 
-2023/104 s. 612(4), (4A) 4.5.2023 2023/141 ss. 38(1)-(3), (5)-(6), 286(1), (1A)-(1B), (2)-(3), Schs. 6-7, 21
+2023/141 ss. 38(1)-(3), (5)-(6), 286(1), (1A)-(1B), (2)-(3), Schs. 6-7, 21
 
 8.6.2023 2023/161 Sch. 2 23.6.2023 2023/250 ss. 83A(1)-(5) 24.8.2023 2023/260 Sch. 2 7.9.2023 2024/026 Sch. 9 14.3.2024 Act. 2024-10 s. 23A 31.5.2024 2024-23 ss. 20, 24(3)(a)(i)-(ii), (iv), (b)-(d), (f)-(h), (k)-(o), (p)(i), (q), (s)-(u), (3A), (4), (6), 30(5), (a), 38(5), 45(1), (2)(a)(i)-(iii), 46(2)(a)(i)-(iii), 50-51, 52A, 55A-55C, 62(1)(b)-(c), 65(2)(a), 68(3)(a), 69(1)(d)(i), 70(2)(c)(i), (5)(a), 77(4)-(5), (5A)-(5B), 79(3), (a)-(b), 83A, 85, 86(1)-(2), 87(2), (2A), (b), (2B), 88(1), (5), 88A, 89(1)-(2), 91, 94(1A), (2)-(3), 94A, 97(1)-(2), 98(1)(a)-(b), (1A), 100(1)-(2), (b), (d), 101(4), 104(1)(c), 113(1), 120(2), 122(1)-(2), (4), (6), 122A, 123(1), (1A), (2)-(6), 123A, 124(5), 129(4A), (7), 130(1)-(2)131(1)(e)(iv), (f)-(h), (2), 132(2), (7), (7A)-(7B), 145(1)(a)(i)-(ii), 176(1)-(2), 286(2), 348ZA, 543(1)-(2), 544(1)(b)-(c), (4)-(5), 546(3), 612(6), 613(4), (7), 616(1), (4)-(5), 616A, 617A(1), (1A), 620(2), (b)-(d), 621(2), 626(1)-(2), 626A(1), (3)(b)(ii), (4), 626B, 627(1)-(3), Schs. 5-7, 9, 14-15
 
@@ -26,13 +26,13 @@ Amending enactments Relevant current provisions Commencement date LN.2020/005 ss
 
 1.4.20252 LN.2025/075 ss. 83A(2), (8A), 88A(3), Sch. 4 10.4.2025 2025/098 Sch. 24 8.5.2025 2025/254 s. 5(2)(o), Sch. 2 27.10.2025 2026/003 ss. 209(2), 633(1), (3) 1.1.2026 “ ss. 3(1)-(2), 116(3), 119(f)(i), 122(8)-(9), 129(2), 132(2)(a), (7A), (9), 202(2)(b), 214(1), 230(2)-(4), 612(3)(b), 626A(1)(a)-(c), (3)(b)(ii), (4)-(5), Sch. 3, 19
 
-8.1.2026
+8.1.2026 2026/018 ss. 2, 196(1), 212(2)(b), 227, 282(1), 363(10), 473, Schs. 1, 13
+
+1.2.2026
 
 1 Notice of Commencement – LN.2025/002 2 Notice of Commencement – LN.2025/053
 
-2026/018 ss. 2, 196(1), 212(2)(b), 227, 282(1), 363(10), 473, Schs. 1, 13
-
-1.2.2026 2026/231 s. 122A(3)(a), Schs. 2-3, 14-15 23.7.2026 Act. 2026-28 Sch. 24 13.8.2026
+2026/231 s. 122A(3)(a), Schs. 2-3, 14-15 23.7.2026 Act. 2026-28 Sch. 24 13.8.2026 LN.2026/375 rr. 209(2), 230(2)-(4) 12.11.2026
 
 ARRANGEMENT OF SECTIONS
 
@@ -64,9 +64,7 @@ Financial promotion
 
 Enforceability of agreements
 
-14. Agreements made by persons contravening the general prohibition. 15. Agreements made through persons contravening the general prohibition. 16. Agreements made unenforceable by section 14 and 15. 17. Accepting deposits in breach of general prohibition.
-
-18. Agreements resulting from contravention of section 12.
+14. Agreements made by persons contravening the general prohibition. 15. Agreements made through persons contravening the general prohibition. 16. Agreements made unenforceable by section 14 and 15. 17. Accepting deposits in breach of general prohibition. 18. Agreements resulting from contravention of section 12.
 
 Miscellaneous
 
@@ -166,7 +164,9 @@ Interpretation
 
 Initial applications for permission
 
-63. Persons who can apply for permission. 64. Meaning of “the threshold conditions”. 65. Requirement to satisfy the threshold conditions. 66. Firms based outside Gibraltar. 67. Giving permission.
+63. Persons who can apply for permission. 64. Meaning of “the threshold conditions”. 65. Requirement to satisfy the threshold conditions.
+
+66. Firms based outside Gibraltar. 67. Giving permission.
 
 Variation and cancellation of permission
 
@@ -254,9 +254,7 @@ Disregarded holdings
 
 Assessment procedure
 
-118. Assessment: general. 119. Assessment criteria. 120. Approval with conditions.
-
-121. Assessment: consultation with EEA authorities. 122. Assessment: procedure. 122A. Duration of approval. 123. Requests for further information. 123A. Incomplete notices.
+118. Assessment: general. 119. Assessment criteria. 120. Approval with conditions. 121. Assessment: consultation with EEA authorities. 122. Assessment: procedure. 122A. Duration of approval. 123. Requests for further information. 123A. Incomplete notices.
 
 Objections and enforcement
 
@@ -312,9 +310,7 @@ Sanctioning powers
 
 Sanctioning actions
 
-157. Sanctioning actions. 158. Criteria for sanctioning actions. 159. Notice procedure and appeals. 160. Dispensing with a warning notice: sanctions in urgent cases.
-
-161. Administrative penalty a civil debt. 162. Revocation or variation of prohibition order.
+157. Sanctioning actions. 158. Criteria for sanctioning actions. 159. Notice procedure and appeals. 160. Dispensing with a warning notice: sanctions in urgent cases. 161. Administrative penalty a civil debt. 162. Revocation or variation of prohibition order.
 
 Transitional and savings
 
@@ -354,7 +350,9 @@ Interpretation
 
 The Ombudsman
 
-180. Financial Services Ombudsman. 181. Appointment, etc. of Ombudsman. 182. Ombudsman’s functions.
+180. Financial Services Ombudsman.
+
+181. Appointment, etc. of Ombudsman. 182. Ombudsman’s functions.
 
 Excluded disputes
 
@@ -470,9 +468,7 @@ Right of investors to compensation
 
 Participation in investor compensation scheme
 
-246. Gibraltar investor compensation scheme. 247. Participation in scheme: Gibraltar investment firms. 248. Participation in scheme: UK firms. 249. Participation in scheme: third country investment firm. 250. Omitted.
-
-251. Omitted. 252. Omitted. 253. Omitted.
+246. Gibraltar investor compensation scheme. 247. Participation in scheme: Gibraltar investment firms. 248. Participation in scheme: UK firms. 249. Participation in scheme: third country investment firm. 250. Omitted. 251. Omitted. 252. Omitted. 253. Omitted.
 
 Failure to participate
 
@@ -502,7 +498,9 @@ Miscellaneous provisions
 
 PART 17 RECOVERY AND RESOLUTION
 
-281. Overview. 282. Interpretation of Part 17. 283. Recovery and Resolution Regulations. 284. Gibraltar Resolution Authority. 285. Resolution authority’s powers. 286. Immunity of resolution authority. 287. Omitted.
+281. Overview. 282. Interpretation of Part 17. 283. Recovery and Resolution Regulations. 284. Gibraltar Resolution Authority.
+
+285. Resolution authority’s powers. 286. Immunity of resolution authority. 287. Omitted.
 
 PART 18 COLLECTIVE INVESTMENT SCHEMES
 
@@ -544,9 +542,7 @@ Power to impose conditions
 
 CHAPTER 5 RECOGNITION OF FOREIGN SCHEMES
 
-316. Recognised schemes. 317. Application for recognition of a foreign scheme. 318. Recognition of a foreign scheme.
-
-319. Determination of application: foreign schemes. 320. Procedure when refusing an application for recognition. 321. Application for revocation of recognition.
+316. Recognised schemes. 317. Application for recognition of a foreign scheme. 318. Recognition of a foreign scheme. 319. Determination of application: foreign schemes. 320. Procedure when refusing an application for recognition. 321. Application for revocation of recognition.
 
 CHAPTER 6 Omitted
 
@@ -556,7 +552,9 @@ CHAPTER 7 REGULATORY POWERS
 
 Intervention
 
-325. Intervention powers. 326. Certain grounds for intervention. 327. Suspension or revocation of authorisation or recognition. 328. Protection order. 329. Directions. 330. Directions: procedure. 331. Appointment of examiner. 332. Public statements.
+325. Intervention powers.
+
+326. Certain grounds for intervention. 327. Suspension or revocation of authorisation or recognition. 328. Protection order. 329. Directions. 330. Directions: procedure. 331. Appointment of examiner. 332. Public statements.
 
 Sanctions
 
@@ -600,9 +598,7 @@ Investigations and intervention powers
 
 Infringements
 
-348A. Reporting of infringements. 349. Entry of premises under warrant. 350. Sanctions for contraventions.
-
-351. Exercise of powers.
+348A. Reporting of infringements. 349. Entry of premises under warrant. 350. Sanctions for contraventions. 351. Exercise of powers.
 
 Appeals
 
@@ -624,9 +620,7 @@ Ongoing information
 
 Information for holders of securities traded on a regulated market
 
-373. Information requirements for issuers whose shares are admitted to trading on a regulated market.
-
-374. Information requirements for issuers whose debt securities are admitted to trading on a regulated market. 375. Control by the GFSC. 376. Languages. 377. Access to regulated information. 378. Minimum Standards. 379. Third countries.
+373. Information requirements for issuers whose shares are admitted to trading on a regulated market. 374. Information requirements for issuers whose debt securities are admitted to trading on a regulated market. 375. Control by the GFSC. 376. Languages. 377. Access to regulated information. 378. Minimum Standards. 379. Third countries.
 
 Supervision, sanctions and other measures
 
@@ -676,9 +670,7 @@ The Market Abuse Regulation
 
 419. Market Abuse Regulation.
 
-PART 22
-
-SUSPENSION AND REMOVAL OF FINANCIAL INSTRUMENTS FROM TRADING
+PART 22 SUSPENSION AND REMOVAL OF FINANCIAL INSTRUMENTS FROM TRADING
 
 Introduction
 
@@ -704,13 +696,13 @@ CHAPTER 1 PRELIMINARY
 
 CHAPTER 2 TRANSFER OF GENERAL BUSINESS
 
-435. Application of Chapter 2. 436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required.
-
-438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision. 444. Effect of approval. 445. Notice of transfer. 446. Omitted. 447. Service of notices under this Chapter.
+435. Application of Chapter 2. 436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required. 438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision. 444. Effect of approval. 445. Notice of transfer. 446. Omitted. 447. Service of notices under this Chapter.
 
 CHAPTER 3 TRANSFER OF LONG TERM BUSINESS
 
-448. Application of Chapter 3. 449. Disapplication of certain provisions: reinsurance undertakings. 450. Sanction of court required. 451. Notice of proposed transfer. 452. Obligation to comply with notice requirements. 453. Scheme reports. 454. Right to participate in proceedings. 455. Conditions for sanction of the court. 456. Omitted. 457. Omitted. 458. Omitted. 459. Omitted. 460. Effect of order sanctioning transfer. 461. Limitation on rights to terminate etc. 462. Appointment of actuary in relation to reduction of benefits. 463. Notice of transfer. 464. Omitted.
+448. Application of Chapter 3. 449. Disapplication of certain provisions: reinsurance undertakings. 450. Sanction of court required. 451. Notice of proposed transfer. 452. Obligation to comply with notice requirements. 453. Scheme reports. 454. Right to participate in proceedings. 455. Conditions for sanction of the court. 456. Omitted.
+
+457. Omitted. 458. Omitted. 459. Omitted. 460. Effect of order sanctioning transfer. 461. Limitation on rights to terminate etc. 462. Appointment of actuary in relation to reduction of benefits. 463. Notice of transfer. 464. Omitted.
 
 CHAPTER 4 Omitted
 
@@ -720,9 +712,7 @@ CHAPTER 5 Omitted
 
 467. to 472. Omitted.
 
-PART 24
-
-REGULATION OF AUDITORS
+PART 24 REGULATION OF AUDITORS
 
 Interpretation
 
@@ -746,9 +736,7 @@ Registration
 
 Professional ethics, independence and objectivity
 
-493. Professional ethics and scepticism. 494. Independence and objectivity. 495. Employment by audited entities of former audit personnel. 496. Preparation for the statutory audit and assessment of threats to independence.
-
-497. Independence and objectivity of the statutory auditors carrying out the statutory audit on behalf of audit firms.
+493. Professional ethics and scepticism. 494. Independence and objectivity. 495. Employment by audited entities of former audit personnel. 496. Preparation for the statutory audit and assessment of threats to independence. 497. Independence and objectivity of the statutory auditors carrying out the statutory audit on behalf of audit firms.
 
 Confidentiality and professional secrecy
 
@@ -776,9 +764,7 @@ Investigations
 
 Sanctions
 
-517. Sanctioning powers. 518. Non-compliance declaration.
-
-519. Audit prohibition order. 520. Suspension or withdrawal, etc. of approval or registration. 521. Administrative penalties. 522. Restoration. 523. Reporting of contraventions. 524. Omitted.
+517. Sanctioning powers. 518. Non-compliance declaration. 519. Audit prohibition order. 520. Suspension or withdrawal, etc. of approval or registration. 521. Administrative penalties. 522. Restoration. 523. Reporting of contraventions. 524. Omitted.
 
 Public oversight and regulatory arrangements between EEA States
 
@@ -794,7 +780,9 @@ Audit Committee
 
 International aspects
 
-532. Approval of auditors from third countries as statutory auditors. 533. Registration and oversight of third country auditors and audit entities. 534. Derogation in the case of equivalence. 535. Cooperation with competent authorities outside Gibraltar. 536. Omitted.
+532. Approval of auditors from third countries as statutory auditors. 533. Registration and oversight of third country auditors and audit entities.
+
+534. Derogation in the case of equivalence. 535. Cooperation with competent authorities outside Gibraltar. 536. Omitted.
 
 PART 25 REGULATION OF INSOLVENCY PRACTITIONERS
 
@@ -804,9 +792,7 @@ Introduction
 
 Licensing
 
-539. Application for insolvency practitioner’s licence. 540. Licensing criteria. 541. Issue or refusal of licence.
-
-542. Disqualification from holding a licence. 543. Licence conditions or restrictions. 544. Determination of applications: notice procedure.
+539. Application for insolvency practitioner’s licence. 540. Licensing criteria. 541. Issue or refusal of licence. 542. Disqualification from holding a licence. 543. Licence conditions or restrictions. 544. Determination of applications: notice procedure.
 
 Control of licensees and enforcement
 
@@ -836,9 +822,7 @@ Requirement for IORPs to be authorised or registered
 
 Authorisation
 
-561. Application for authorisation of an IORP.
-
-562. Authorisation of an IORP. 563. Power to impose conditions on authorised IORPs. 564. Authorisation and conditions: procedure.
+561. Application for authorisation of an IORP. 562. Authorisation of an IORP. 563. Power to impose conditions on authorised IORPs. 564. Authorisation and conditions: procedure.
 
 Supervision
 
@@ -854,13 +838,13 @@ Sanctions
 
 Professional secrecy and exchange of information
 
-578. Professional secrecy. 579. Use of confidential information. 580. Omitted. 581. Exchange of information between authorities. 582. Transmission of information to central banks, monetary authorities and others. 583. Conditions for the exchange of information. 584. Omitted.
+578. Professional secrecy.
+
+579. Use of confidential information. 580. Omitted. 581. Exchange of information between authorities. 582. Transmission of information to central banks, monetary authorities and others. 583. Conditions for the exchange of information. 584. Omitted.
 
 Miscellaneous
 
-585. Regulations applying to IORPS. 586. Omitted. 587. Omitted. 588. Appeals. 589. Omitted. 590. Processing of personal data.
-
-591. Transitional arrangements.
+585. Regulations applying to IORPS. 586. Omitted. 587. Omitted. 588. Appeals. 589. Omitted. 590. Processing of personal data. 591. Transitional arrangements.
 
 PART 27 PERSONAL PENSION SCHEMES
 
@@ -890,9 +874,7 @@ Sanctions
 
 Miscellaneous
 
-610. Regulations relating to schemes approved under this Part.
-
-611. Transitional provisions.
+610. Regulations relating to schemes approved under this Part. 611. Transitional provisions.
 
 PART 28 NOTICE PROCEDURE, APPEALS AND PUBLICATION
 
@@ -924,9 +906,7 @@ General powers: regulated activities, audits and insolvency
 
 Miscellaneous other powers
 
-622. Consumer credit regulations. 623. Regulated markets regulations. 624. Fees regulations. 625. Penalty regulations. 626. EU withdrawal regulations.
-
-626A. Technical standards regulations. 626B.  Provision for international agreements. 627. General power to make further provision by regulations.
+622. Consumer credit regulations. 623. Regulated markets regulations. 624. Fees regulations. 625. Penalty regulations. 626. EU withdrawal regulations. 626A. Technical standards regulations. 626B.  Provision for international agreements. 627. General power to make further provision by regulations.
 
 Supplementary
 
@@ -982,9 +962,7 @@ SCHEDULE 17 Financial Services Ombudsman
 
 SCHEDULE 18 The FSRCC’S Functions Under Parts 15 and 16
 
-SCHEDULE 19
-
-Depositor information sheet
+SCHEDULE 19 Depositor information sheet
 
 SCHEDULE 20 Investors to whom Part 16 does not apply
 
@@ -1006,6 +984,6 @@ SCHEDULE 27 Reporting Contraventions Of The Market Abuse Regulation
 
 SCHEDULE 28 Transitional provisions
 
-SCHEDULE 29 Repeals and revocations AN ACT TO PROVIDE FOR THE REGULATION OF FINANCIAL SERVICES AND MARKETS AND FIDUCIARY SERVICES; TO MAKE PROVISION IN RESPECT OF THE GIBRALTAR FINANCIAL SERVICES COMMISSION; TO ESTABLISH A FINANCIAL SERVICES OMBUDSMAN; TO MAKE PROVISION IN RESPECT OF A DEPOSIT GUARANTEE SCHEME, AN INVESTOR COMPENSATION SCHEME AND RECOVERY AND RESOLUTION ARRANGEMENTS AND THEIR FINANCING; TO PROVIDE FOR THE REGULATION OF THE LISTING OF SECURITIES, PROSPECTUSES AND TAKEOVERS; TO MAKE PROVISION IN RESPECT OF MARKET ABUSE; TO PROVIDE FOR THE CONTROL OF INSURANCE BUSINESS TRANSFERS; TO MAKE PROVISION IN RESPECT OF OCCUPATIONAL AND
+SCHEDULE 29 Repeals and revocations
 
-PERSONAL PENSION SCHEMES; TO PROVIDE FOR THE REGULATION OF AUDITORS AND INSOLVENCY PRACTITIONERS, AND FOR CONNECTED PURPOSES.
+AN ACT TO PROVIDE FOR THE REGULATION OF FINANCIAL SERVICES AND MARKETS AND FIDUCIARY SERVICES; TO MAKE PROVISION IN RESPECT OF THE GIBRALTAR FINANCIAL SERVICES COMMISSION; TO ESTABLISH A FINANCIAL SERVICES OMBUDSMAN; TO MAKE PROVISION IN RESPECT OF A DEPOSIT GUARANTEE SCHEME, AN INVESTOR COMPENSATION SCHEME AND RECOVERY AND RESOLUTION ARRANGEMENTS AND THEIR FINANCING; TO PROVIDE FOR THE REGULATION OF THE LISTING OF SECURITIES, PROSPECTUSES AND TAKEOVERS; TO MAKE PROVISION IN RESPECT OF MARKET ABUSE; TO PROVIDE FOR THE CONTROL OF INSURANCE BUSINESS TRANSFERS; TO MAKE PROVISION IN RESPECT OF OCCUPATIONAL AND PERSONAL PENSION SCHEMES; TO PROVIDE FOR THE REGULATION OF AUDITORS AND INSOLVENCY PRACTITIONERS, AND FOR CONNECTED PURPOSES.

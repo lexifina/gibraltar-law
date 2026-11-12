@@ -58,9 +58,7 @@ DLT providers or VAA providers
 
 Head of Security Head of Technology Head of Risk Management Head of Finance
 
-Part 3
-
-Other Regulated Functions
+Part 3 Other Regulated Functions
 
 †Chair (if regulated firm is a company)
 
