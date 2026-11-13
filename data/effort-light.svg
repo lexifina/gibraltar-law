@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Gibraltar law as a git history</text>
+<rect x="298.0" y="24.5" width="61" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="328.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">af53094</text>
+<rect x="366.8" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="445.2" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">record to Dec 23, 2024</text>
+<rect x="531.6" y="24.5" width="118" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="590.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">freshness: stale</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">2</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">acts</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">12</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">changes, as commits</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">160</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">provision files</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">8</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e">laws and publishers credited</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">2006–2024</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">years of history</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Changes by the year they took effect</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="280.5" x2="839.5" y2="280.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="284.5" font-size="11" text-anchor="end" fill="#59636e">1</text>
+<line x1="80.5" y1="230.5" x2="839.5" y2="230.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="234.5" font-size="11" text-anchor="end" fill="#59636e">2</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">3</text>
+<rect x="81.10" y="230.5" width="34.94" height="100.0" rx="1.5" fill="#1f883d"><title>2006: 2 changes took effect</title></rect>
+<text x="98.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2006</text>
+<text x="98.6" y="224.5" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">2 in 2006</text>
+<rect x="117.24" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2007: 1 change took effect</title></rect>
+<text x="170.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2008</text>
+<rect x="225.67" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2010: 1 change took effect</title></rect>
+<text x="243.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<text x="315.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2012</text>
+<rect x="334.10" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2013: 1 change took effect</title></rect>
+<rect x="370.24" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2014: 1 change took effect</title></rect>
+<text x="387.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2014</text>
+<rect x="406.39" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2015: 1 change took effect</title></rect>
+<rect x="442.53" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2016: 1 change took effect</title></rect>
+<text x="460.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2016</text>
+<rect x="514.81" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2018: 1 change took effect</title></rect>
+<text x="532.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2018</text>
+<text x="604.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<text x="676.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2022</text>
+<rect x="695.53" y="230.5" width="34.94" height="100.0" rx="1.5" fill="#1f883d"><title>2023: 2 changes took effect</title></rect>
+<rect x="731.67" y="280.5" width="34.94" height="50.0" rx="1.5" fill="#1f883d"><title>2024: 1 change took effect</title></rect>
+<text x="749.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2024</text>
+<text x="821.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2026</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">12 changes dated by their in-force day. History type: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Completeness, checked against the official sources on Nov 12, 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Constitution</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">held in the repository</text>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f883d">held</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Main codes</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">share of the essential codes held</text>
+<g><title>Main codes: 0%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">National law</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">acts held, of the official total</text>
+<g><title>National law: 0%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0%</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Regional law</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">no law-making regions</text>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">not applicable</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Case law</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">top courts held</text>
+<g><title>Case law: 0%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0%</text>
+<text x="456.0" y="518.5" font-size="13" fill="#1f2328">Verdict</text>
+<text x="456.0" y="534.5" font-size="11.5" fill="#59636e">gibraltar-law holds only two texts: the Gibraltar Constitution…</text>
+<text x="839.5" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e"></text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Correctness of what is held</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Changes with an in-force date</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">share of changes</text>
+<g><title>Changes with an in-force date: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Changes citing their official source</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">a Source line or link in the commit</text>
+<g><title>Changes citing their official source: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Checked against the official source</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">Gibraltar Laws (gibraltarlaws.gov.gi)</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">Oct 28, 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">global-law's checks</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">0 problems, 1 warning</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f883d">passes</text>
+<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Corpora for this country in global-law</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">national acts: 1</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
+<text x="456.0" y="684.5" font-size="13" fill="#1f2328">Record runs to</text>
+<text x="456.0" y="700.5" font-size="11.5" fill="#59636e">freshness status: stale</text>
+<text x="839.5" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">Dec 23, 2024</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/gibraltar-law at af53094, built 2026-11-13. Changes exclude documentation commits. Scope: from 2006-01-12</text>
+</svg>
