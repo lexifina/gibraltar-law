@@ -27,6 +27,42 @@ LAW = re.compile(r'^(Act \d{4}-\d+|Gibraltar Constitution Order 2006)$')
 PUBLISHER = 'Gibraltar Law Offices (gibraltarlaws.gov.gi)'
 
 
+DOC_TOP = ('REPRODUCE.md', 'LICENSE', 'PLAN.md', 'SOURCES.md', '.gitattributes', '.gitignore')
+DOC_DIRS = ('data/', 'tools/', 'visualisations/', 'vulnerabilities/', 'registry/', 'monitoring/')
+
+
+def is_doc_file(path):
+    """A file a documentation commit may touch, never law text: README*, REPRODUCE.md, LICENSE, PLAN.md, SOURCES.md,
+    *.csv and *.json at the top; anything under data/, tools/, visualisations/, vulnerabilities/, registry/, monitoring/;
+    an act folder's README.md (no law text file is named README.md)."""
+    if '/' not in path:
+        return path.startswith('README') or path in DOC_TOP or path.endswith(('.csv', '.json'))
+    return path.startswith(DOC_DIRS) or path.endswith('/README.md')
+
+
+def doc_commit_problems(repo, rows):
+    """rows: (sha, In-force value) of each commit authored by Lexifina. Every one is a documentation commit (README,
+    charts, tools): no In-force trailer and no law text file (one git log --no-walk --name-only for all of them)."""
+    if not rows:
+        return []
+    out = subprocess.run(['git', '-c', 'core.quotePath=false', 'log', '--no-walk=unsorted', '--stdin', '--name-only',
+                          '--format=%x00%H'], cwd=repo, input=''.join(h + '\n' for h, _ in rows), capture_output=True,
+                         text=True, encoding='utf-8')
+    if out.returncode:
+        raise AssertionError(f'git log --no-walk: {out.stderr.strip()}')
+    files = {}
+    for block in out.stdout.split('\x00')[1:]:
+        lines = [l for l in block.splitlines() if l]
+        files[lines[0]] = lines[1:]
+    bad = []
+    for h, day in rows:
+        law = [f for f in files.get(h, []) if not is_doc_file(f)]
+        if day.strip() or law:
+            bad.append(h[:10] + (f' In-force {day.strip()}' if day.strip() else '')
+                       + (f' touches {len(law)} law text file(s), e.g. {law[0]}' if law else ''))
+    return bad
+
+
 def default_repo() -> Path:
     if (HERE.parent / '.git').exists():
         return HERE.parent
@@ -59,6 +95,9 @@ class Smoke:
         except AssertionError as exc:
             self.results.append((name, False, str(exc)))
             print(f'FAIL {name}: {exc}')
+        except Exception as exc:  # any other error fails this check only; the run goes on
+            self.results.append((name, False, f'{type(exc).__name__}: {exc}'))
+            print(f'FAIL {name}: {type(exc).__name__}: {exc}')
 
     def blame(self):
         out = self.git('blame', '--line-porcelain', 'main', '--', 'stamp-duties/sch-1.md')
@@ -109,34 +148,40 @@ class Smoke:
         for t in tags:
             self.git('rev-parse', '--verify', '-q', f'{t}^{{commit}}')
         rows = self.git('log', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
-        missing = [r for r in rows[1:] if not r.split('\t')[2].strip()]
+        rows = [r for r in rows if r.split('\t')[1] != 'Lexifina']   # documentation commits (by Lexifina) carry no In-force
+        missing = [r for r in rows if not r.split('\t')[2].strip()]
         assert not missing, f'{len(missing)} commits without In-force'
-        assert not rows[0].split('\t')[2].strip(), 'documentation commit should carry no In-force'
-        bad = [r for r in rows[1:] if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]
+        bad = [r for r in rows if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]
         assert not bad, f'malformed In-force {bad[:2]}'
         unparsed = 0
-        for r in rows[1:]:
+        for r in rows:
             body = self.git('log', '-1', '--format=%B', r.split('\t')[0])
             out = subprocess.run(['git', 'interpret-trailers', '--parse'], input=body, cwd=self.repo, capture_output=True,
                                  text=True, encoding='utf-8').stdout
             if 'In-force:' not in out:
                 unparsed += 1
         assert not unparsed, f'{unparsed} commits whose trailers do not parse'
-        return f'{len(tags)} tags resolve; {len(rows) - 1} law commits carry In-force and parse'
+        return f'{len(tags)} tags resolve; {len(rows)} law commits carry In-force and parse'
 
     def lexifina(self):
-        rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()
+        rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn%x09%(trailers:key=In-force,valueonly,separator=)',
+                        'main').splitlines()
         by_lex = [r for r in rows if r.split('\t')[1] == 'Lexifina']
-        assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
+        assert by_lex, 'no documentation commit by Lexifina'
+        bad = doc_commit_problems(self.repo, [(r.split('\t')[0], r.split('\t')[4]) for r in by_lex])
+        assert not bad, f'{len(bad)} Lexifina commits are not documentation commits, e.g. {bad[:3]}'
+        law = [r for r in rows if r.split('\t')[1] != 'Lexifina']
         assert all(r.split('\t')[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
-        assert all(r.split('\t')[2].endswith('.invalid') for r in rows[1:]), 'an author address that is not .invalid'
-        authors = {r.split('\t')[1] for r in rows[1:]}
+        assert all(r.split('\t')[2].endswith('.invalid') for r in law), 'an author address that is not .invalid'
+        authors = {r.split('\t')[1] for r in law}
         assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {authors}'
-        return f'only the documentation commit {rows[0][:10]} is by Lexifina; {len(authors)} distinct authors'
+        return f'{len(by_lex)} documentation commits by Lexifina, none with In-force or law text; {len(authors)} distinct authors'
 
     def corpus(self):
         c = json.loads((self.repo / 'corpus.json').read_text(encoding='utf-8'))
-        days = sorted(set(re.findall(r'^In-force: (\S+)', self.git('log', '--format=%B', 'main'), re.M)))
+        msgs = [m.split('\x02', 1) for m in self.git('log', '--format=%x01%an%x02%B', 'main').split('\x01')[1:]]
+        # the law history only: documentation commits (by Lexifina) carry no In-force
+        days = sorted(set(re.findall(r'^In-force: (\S+)', ''.join(b for a, b in msgs if a != 'Lexifina'), re.M)))
         assert c['in_force_trailer'] == 'In-force'
         assert c['history_from'] == days[0] and c['record_to'] == days[-1], (c['history_from'], c['record_to'], days[0], days[-1])
         assert c['scope']['default_reach']['decided_here'] is False
