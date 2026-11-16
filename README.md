@@ -59,6 +59,7 @@ Each change is credited to the amending enactment the table gives for its day (`
 - `tools/test_repo.py` checks that blame names an enactment, that the text differs before and after an amendment, and that the log, the tags and every commit's trailers are in order.
 - A second build from the same data gave the same hashes for all 12 law commits and 24 tags. The results and the commands are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: later changes are appended, never forced.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ Each change is credited to the amending enactment the table gives for its day (`
 See [`LICENSE`](LICENSE). The Gibraltar Laws site states no licence and no terms for reuse, so reuse terms are unclear; its PDFs carry "(c) Government of Gibraltar (www.gibraltarlaws.gov.gi)". The scripts in `tools/` are the only part of this repository that Lexifina licenses.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
