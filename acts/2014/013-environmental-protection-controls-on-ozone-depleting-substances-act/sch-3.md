@@ -4,26 +4,6 @@ Section 4(1A)
 
 Offences for breach of the F-Gas Regulation
 
-Provision of the EU  Subject matter Regulation
+Provision of the F-Gas Regulation Subject matter Article 4(1), (2), (3), (4), (5), (6), (7) Prevention of emissions of fluorinated greenhouse gases Article 5(1), (2), (3), (6), (7) Leak checks Article 6(1), (2), (3), (4) Leakage detection systems Article 7(1), (2), (3), (4), (5) Record keeping Article 8(1)-(13) Recovery Article 10 Certification and training Article 11(1), (3), (5), (6), (7) Restrictions on placing on the market and sale Article 12(1)-(17) Labelling and product and equipment information Article 13(1)-(9) Control of use Article 14 Production limits Article 16 Reduction of the quantity of hydrofluorocarbons placed on the market Article 17 Allocation of quotas Article 18 Conditions for registration and receiving quota allocations Article 19 Pre-charging of equipment with hydrofluorocarbons Article 21 Transfer of quotas and authorisation Article 22 Imports and exports Article 23 Trade controls Article 25 Trade with non-Protocol States
 
-Article 3(1),(2), Prevention of emissions of fluorinated greenhouse gases (3) and (4)
-
-Article 4(1),(2) Leak checks and (3)
-
-Article 5(1),(2), Leakage detection systems (3) and (4)
-
-Article 6(1),(2), Record keeping and (3)
-
-Article 7(1) and (2) Emissions of fluorinated greenhouse gases in relation to production
-
-Article 8(1), (2) Recovery and (3)
-
-Article 11(1), (4) Restrictions on the placing on the market. and (5)
-
-Article 12(1) to (13) Labelling.
-
-Article 13(1), (2) Control of use and (3)
-
-Article 14(1) and (2) Pre-charging of equipment with hydrofluorocarbons
-
-Article 15(1) and (3) Reduction of the quantity of hydrofluorocarbons placed on the market
+______________________________
