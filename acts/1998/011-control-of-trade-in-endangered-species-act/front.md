@@ -4,9 +4,11 @@ Principal Act
 
 Act. No. 1998-11 Commencement 29.1.1998 Assent 29.1.1998
 
-Amending enactments Relevant current provisions Commencement date LN. 1998/042 s. 13 29.1.1998 2021/110 s. 2(1), (2)(d), (f) 1.1.2021 2021/458 s. 2(1) 1.1.2021
+Amending enactments Relevant current provisions Commencement date LN. 1998/042 s. 13 29.1.1998 2021/110 s. 2(1), (2)(d), (f) 1.1.2021 2021/458 s. 2(1) 1.1.2021 Act. 2026-17 ss. 2(1), (2)(f), 8A-8C, 9(3), (4)(ba)-(bc), 12A-12B 26.11.20261
 
 EU Legislation/International Agreements involved: Regulation (EC) No. 338/97 Regulation (EC) No. 939/97
+
+1 Notice of Commencement – LN. 2026/385
 
 ARRANGEMENT OF SECTIONS
 
@@ -18,7 +20,7 @@ PART 1. PRELIMINARY.
 
 PART 2. ENFORCEMENT OF PRINCIPAL REGULATIONS.
 
-3. False statements etc. 4 Misuse of permits and certificates. 5. Proof of lawful import or export. 6. Compliance with permits or certificates. 7. Movement of live specimens. 8. Purchase and sale etc. 9. Powers of entry. 10. Powers of seizure. 11. Forfeiture. 12. Offences by corporations.
+3. False statements etc. 4 Misuse of permits and certificates. 5. Proof of lawful import or export. 6. Compliance with permits or certificates. 7. Movement of live specimens. 8. Purchase and sale etc. 8A. Marking of specimens. 8B. Registration of scientific institutions. 8C. Caviar labelling. 9. Powers of entry. 10. Powers of seizure. 11. Forfeiture. 12. Offences by corporations. 12A. Electronic permits and certificates. 12B. Regulations.
 
 PART 3. AMENDMENT TO ENDANGERED SPECIES ACT, 1990.
 
