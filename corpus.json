@@ -1,9 +1,10 @@
 {
   "corpus": "gi/national/acts",
-  "name": "Gibraltar law: the Gibraltar Constitution Order 2006 and the Stamp Duties Act 2005 (2005-73)",
+  "name": "Gibraltar law: the Constitution Order 2006, Acts of Parliament and subsidiary legislation in every dated consolidated version on gibraltarlaws.gov.gi",
   "acts": [
     "Gibraltar Constitution Order 2006",
-    "Stamp Duties Act 2005 (2005-73)"
+    "Acts of Parliament (acts/<year>/<number>-<name>/)",
+    "Subsidiary legislation (subsidiary/<year>/<number>-<name>/)"
   ],
   "history_from": "2006-01-12",
   "record_to": "2024-12-23",
@@ -31,11 +32,11 @@
   "tool": "tools/on_date.py",
   "citation": {
     "file": "(.+)/s-0*([0-9]+[A-Za-z]*)\\.md",
-    "cites": "([Ss]ection|s\\.) ?{n}([^0-9A-Za-z]|$)"
+    "cites": "([Ss]ection|[Rr]egulation|s\\.|reg\\.) ?{n}([^0-9A-Za-z]|$)"
   },
   "label": "Gibraltar",
   "language": "en",
   "checked_on": "2026-10-28",
   "history": "in-force",
-  "record_note": "Checked against the official source on 2026-10-28."
+  "record_note": "Constitution and Stamp Duties Act checked against the official source on 2026-10-28; the other instruments are added from 2026-11-26, read from the publisher PDFs' text layer."
 }

@@ -3,7 +3,21 @@
 This file records how the repository was built: the sources, the commands, the software, the decisions made by hand,
 and what an AI model did and did not do. The build writes it.
 
-## Short version
+## 2026-11-26: all Acts and subsidiary legislation
+
+`stamp-duties/` was moved to `acts/2005/073-stamp-duties/` in one pure-rename commit. Every other instrument listed as
+Act or Subsidiary Legislation on https://www.gibraltarlaws.gov.gi/legislations is then added by a runner
+(`gi_run.py`, `gi_parse.py`, `gfetch.py` in Lexifina's ops checkout):
+
+1. the listing gives every instrument and its type; each instrument's page lists its dated versions and their PDFs;
+2. each PDF's own text layer is read with PyMuPDF (no OCR; a PDF without one is held), running heads are dropped,
+   and the text is cut at the numbered sections (after the arrangement) and at the schedule headings;
+3. each version is one commit at noon Europe/Gibraltar on its version day, appended with git fast-import and pushed
+   fast-forward; versions dated after the build day are held.
+
+Requests go one at a time, 5 s apart, as the site's robots.txt asks (Crawl-delay: 5).
+
+## Short version (the October 2026 build of the first two texts)
 
 ```sh
 git clone https://github.com/lexifina/gibraltar-law && cd gibraltar-law

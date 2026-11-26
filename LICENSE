@@ -1,19 +1,17 @@
-Licence and reuse terms: unclear
+Licence
 
-The legal text in this repository was copied by script from the Gibraltar Laws website
-(https://www.gibraltarlaws.gov.gi), published by the Government of Gibraltar. The PDFs carry the line
-"(c) Government of Gibraltar (www.gibraltarlaws.gov.gi)". The site states no licence and gives no terms for
-reuse. Its copyright-and-disclaimer page (https://www.gibraltarlaws.gov.gi/copyright-and-disclaimer) says only,
-in its disclaimer:
+Lexifina's own work in this repository (the layout, the commit messages and metadata, the scripts in tools/ and the
+documentation) is dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
 
-  "Please note that it cannot be guaranteed that a document available on-line exactly reproduces an
-  officially adopted text. Only Government of Gibraltar legislation published in paper editions of the
-  Gibraltar Gazette and Supplements is deemed authentic."
+The legal text is not Lexifina's. It was copied by script from the Gibraltar Laws website
+(https://www.gibraltarlaws.gov.gi), published by the Government of Gibraltar, and keeps the source's terms:
 
-Until the Government of Gibraltar confirms reuse terms, this repository is PRIVATE and must not be made public or
-redistributed. If it is ever published, credit the source exactly as:
+- The PDFs carry the line "(c) Government of Gibraltar (www.gibraltarlaws.gov.gi)". The site states no licence.
+- Its copyright-and-disclaimer page (https://www.gibraltarlaws.gov.gi/copyright-and-disclaimer) says: "Please note
+  that it cannot be guaranteed that a document available on-line exactly reproduces an officially adopted text.
+  Only Government of Gibraltar legislation published in paper editions of the Gibraltar Gazette and Supplements is
+  deemed authentic."
 
-  (c) Government of Gibraltar (www.gibraltarlaws.gov.gi), as published at gibraltarlaws.gov.gi, with changes to
-  layout only (white space and page furniture). The Gibraltar Gazette is the authentic text.
-
-The scripts in tools/ were written by Lexifina and are the only part of this repository that Lexifina licenses.
+Credit the source as: (c) Government of Gibraltar (www.gibraltarlaws.gov.gi), as published at gibraltarlaws.gov.gi,
+with changes to layout only (white space and page furniture). The Gibraltar Gazette is the authentic text.

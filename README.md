@@ -9,9 +9,9 @@ The law of Gibraltar as a git history: one file per section, one commit per vers
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Gibraltar's national law, which global-law reads at `gibraltar/national/acts/`.
 
-**What is in it now:** two texts: the Gibraltar Constitution Order 2006, with the Constitution, in the one version the official site publishes (in force from 2 January 2007); and the Stamp Duties Act 2005, in 11 versions from 12 January 2006 to 23 December 2024, made by the act and six amending enactments. [`enactments.csv`](enactments.csv) lists each enactment with the day it took effect and the provisions it affects; [`stamp-duties/README.md`](stamp-duties/README.md) and [`constitution/README.md`](constitution/README.md) list every provision and its changes.
+**What is in it now:** the Constitution Order 2006, and the Acts of Parliament and subsidiary legislation on the official Gibraltar Laws site, each in every dated version the site publishes, being added act by act (layout in [STRUCTURE.md](STRUCTURE.md)). Case law is kept in a separate repository.
 
-Each act has its own folder, one file per section: `stamp-duties/s-019B.md` is section 19B of the Stamp Duties Act and `stamp-duties/sch-1.md` its Schedule 1, the duty on each kind of instrument. The Constitution is Annex 1 to the Order, in `constitution/annex1/` (`s-008.md` is section 8, protection of law); the Order's own sections are in `constitution/order/` and the transitional provisions in `constitution/annex2/`.
+Each instrument has its own folder by type and year, one file per section: `acts/2011/023-crimes-act/s-213.md` is section 213 of the Crimes Act 2011 (Act 2011-23), `acts/2005/073-stamp-duties/sch-1.md` Schedule 1 of the Stamp Duties Act 2005, and `subsidiary/2021/329-abortion-regulations/` the Abortion Regulations 2021 (LN 2021/329). The Constitution is Annex 1 to the Order, in `constitution/annex1/`; the Order's own sections are in `constitution/order/` and the transitional provisions in `constitution/annex2/`.
 
 The text is in English, as the Government of Gibraltar's Gibraltar Laws site prints it in its PDFs.
 
@@ -19,9 +19,9 @@ The text is in English, as the Government of Gibraltar's Gibraltar Laws site pri
 
 | Question | Command |
 | --- | --- |
-| Every change to Schedule 1 of the Stamp Duties Act | `git log -p --word-diff -- stamp-duties/sch-1.md` |
-| Which enactment wrote each line of Schedule 1? | `git blame stamp-duties/sch-1.md` |
-| Every version of Schedule 1, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- stamp-duties/sch-1.md` |
+| Every change to Schedule 1 of the Stamp Duties Act | `git log -p --word-diff -- acts/2005/073-stamp-duties/sch-1.md` |
+| Which enactment wrote each line of Schedule 1? | `git blame acts/2005/073-stamp-duties/sch-1.md` |
+| Every version of Schedule 1, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- acts/2005/073-stamp-duties/sch-1.md` |
 | Schedule 1 as in force on 1 January 2019 | `python tools/on_date.py 2019-01-01 stamp-duties sch-1` |
 
 **Outside git**, we also host this record publicly, for free:
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add gibraltar/national/acts
-python3 tools/law.py show 2026-01-01 gibraltar/national/acts/stamp-duties/sch-1.md
+python3 tools/law.py show 2026-01-01 gibraltar/national/acts/acts/2005/073-stamp-duties/sch-1.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -63,7 +63,9 @@ Each change is credited to the amending enactment the table gives for its day (`
 
 ## What it does not show
 
-- **Most Gibraltar law.** Only these two texts: no other act, no subsidiary legislation and no case law. The site publishes every act in dated versions; the Crimes Act 2011 (28 versions) was considered and passed over as larger.
+- **Text as enacted, for older law.** The site's consolidated versions start on different days for different instruments; the first commit of each is the earliest version the site holds, not necessarily the text as enacted, and says so. Versions dated after the build day are left out until they take effect.
+- **Case law.** Judgments are in a separate repository.
+- **Repealed instruments, amending instruments and notices.** Only instruments listed as Act or Subsidiary Legislation are read; an amending instrument's effect is in the consolidated versions it changed.
 - **Amendments to the Constitution.** The site lists the Gibraltar Laws (General Amendment) (No.1) Act 2007 as amending the Order but gives no later text, so none is applied.
 - **The authentic text.** Only the Gazette's paper editions are authentic; this text is read from the site's PDFs, and their layout (columns, indentation) is lost.
 - **Changes within a line.** Each paragraph is one line, so blame credits a whole paragraph to the enactment that changed one word of it.
@@ -76,7 +78,7 @@ Each change is credited to the amending enactment the table gives for its day (`
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The Gibraltar Laws site states no licence and no terms for reuse, so reuse terms are unclear; its PDFs carry "(c) Government of Gibraltar (www.gibraltarlaws.gov.gi)". The scripts in `tools/` are the only part of this repository that Lexifina licenses.
+See [`LICENSE`](LICENSE). Lexifina's own work here (layout, commit metadata, scripts) is CC0. The legal text is the Government of Gibraltar's, copied from the Gibraltar Laws site, which states no licence; its PDFs carry "(c) Government of Gibraltar (www.gibraltarlaws.gov.gi)".
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
